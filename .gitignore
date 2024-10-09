@@ -1,0 +1,6 @@
+/creds
+./creds
+creds
+/creds/*
+./creds/*
+creds/*

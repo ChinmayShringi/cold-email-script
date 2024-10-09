@@ -1,0 +1,552 @@
+{
+  "bodyTemplates": [
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m applying for a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Strong expertise in automation and cloud platforms.\n\t- Proven ability to optimize software systems and drive impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Extensive hands-on experience in real-time systems and automation.\n\t- Expertise in optimizing software solutions for impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience and currently pursuing my Master’s at NYU.\n\nI’m reaching out to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Expertise in automation and cloud platforms.\n\t- Extensive experience optimizing real-time systems for impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Strong expertise in cloud platforms and automation.\n\t- Proven ability to drive impactful projects through software engineering.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m writing to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Extensive hands-on experience with real-time systems and cloud platforms.\n\t- Proven expertise in optimizing software systems to deliver impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Extensive experience in cloud platforms and automation.\n\t- Strong ability to deliver optimized real-world software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Extensive experience in automation and real-time systems.\n\t- Proven ability to optimize software solutions and drive impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Hands-on experience in real-time systems and automation.\n\t- Strong expertise in delivering optimized software solutions for impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with 5+ years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Expertise in automation and cloud platforms.\n\t- Proven ability to optimize software systems for impactful real-world projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Extensive hands-on experience in real-time systems and automation.\n\t- Proven ability to drive impactful software engineering projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Strong expertise in automation and real-time systems.\n\t- Proven ability to deliver optimized software solutions for impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s at NYU.\n\nI’m writing to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Hands-on experience in real-time systems and cloud platforms.\n\t- Expertise in delivering optimized software solutions for impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Strong expertise in automation and real-time systems.\n\t- Proven ability to optimize software solutions for impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Expertise in cloud platforms and real-time systems.\n\t- Hands-on experience optimizing software solutions to deliver impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Extensive hands-on experience in automation and real-time systems.\n\t- Proven ability to optimize software systems to drive impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Strong expertise in cloud platforms and automation.\n\t- Hands-on experience optimizing real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with 5+ years of experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Extensive experience in software optimization and automation.\n\t- Proven ability to work on impactful projects using cloud platforms.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m reaching out to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. I offer:\n\n\t- Expertise in automation and cloud platforms.\n\t- Experience in delivering real-world tech solutions through software engineering.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Extensive experience in software engineering and cloud platforms.\n\t- Strong expertise in optimizing real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing a Master’s at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Expertise in automation and real-time systems.\n\t- Proven ability to optimize software solutions and drive impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Strong expertise in cloud technologies and automation.\n\t- Hands-on experience in optimizing software systems for real-world applications.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Extensive experience in cloud platforms and automation.\n\t- Strong ability to deliver optimized solutions in real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Strong expertise in automation and cloud technologies.\n\t- A passion for optimizing software systems to deliver impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. I offer:\n\n\t- Extensive experience in cloud platforms and real-time systems.\n\t- Hands-on expertise in optimizing software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Strong expertise in cloud platforms and automation.\n\t- Proven ability to optimize software systems and drive impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. I offer:\n\n\t- Expertise in automation and cloud platforms.\n\t- Extensive hands-on experience in optimizing real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with 5+ years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m interested in applying for the Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Strong background in cloud platforms and real-time systems.\n\t- Proven ability to drive impactful projects through software optimization.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing a Master’s at NYU.\n\nI’m writing to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Strong expertise in automation and cloud technologies.\n\t- Hands-on experience optimizing software solutions for impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Expertise in cloud platforms and automation.\n\t- Extensive hands-on experience in optimizing software systems for real-world applications.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Proven expertise in cloud platforms and real-time systems.\n\t- Strong ability to drive impactful software engineering projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Expertise in software optimization and cloud platforms.\n\t- Hands-on experience in real-time and distributed systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m writing to express my interest in a Summer Internship at {{COMPANY_NAME}} for 2025. What I bring to the table:\n\n\t- Strong expertise in automation and cloud technologies.\n\t- Proven ability to optimize and deliver impactful software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Strong background in cloud platforms and real-time systems.\n\t- Hands-on experience in driving innovative tech solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing a Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Proven ability in software optimization and cloud platforms.\n\t- Experience in working with real-time systems and automation.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer Internship in 2025 at {{COMPANY_NAME}}. I offer:\n\n\t- Strong background in cloud technologies and automation.\n\t- A proven track record of delivering optimized software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I’m a full-stack developer with over 5 years of hands-on experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m seeking a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Strong expertise in automation and cloud technologies.\n\t- Passion for contributing to impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Hands-on experience in cloud platforms and automation.\n\t- A passion for driving impactful solutions through software engineering.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m interested in applying for a Summer 2025 Internship at {{COMPANY_NAME}}. I offer:\n\n\t- Strong background in cloud platforms and real-time systems.\n\t- A track record of delivering optimized and high-impact solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing a Master’s at NYU.\n\nI’m seeking a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Hands-on expertise in software optimization and automation.\n\t- Passion for contributing to impactful projects in technology.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Strong expertise in automation and cloud platforms.\n\t- Proven experience in optimizing software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Hands-on experience in cloud platforms and automation.\n\t- A passion for delivering real-world and impactful software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Strong expertise in software engineering and cloud technologies.\n\t- A track record of optimizing real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Expertise in automation and software engineering.\n\t- A strong foundation in real-time systems and cloud technologies.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to explore internship opportunities for Summer 2025 at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Strong background in automation and cloud platforms.\n\t- Proven ability to deliver optimized software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. I offer:\n\n\t- Strong expertise in cloud platforms and automation.\n\t- A passion for working on impactful software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Strong expertise in cloud technologies and automation.\n\t- A track record of delivering optimized software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I’m a full-stack developer with over 5 years of industry experience and currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Expertise in automation and real-time systems.\n\t- Proven ability to lead and execute high-impact projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of hands-on experience and currently pursuing my Master’s at NYU.\n\nI’m seeking a Summer Internship at {{COMPANY_NAME}} for 2025. What I bring to the table:\n\n\t- Extensive background in cloud technologies and software engineering.\n\t- Experience working with distributed systems and automation.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I can offer:\n\n\t- Hands-on expertise in cloud platforms and real-time systems.\n\t- Proven ability to contribute to high-impact projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited about the Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Expertise in automation and software optimization.\n\t- A passion for driving innovative tech solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m seeking a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Strong background in cloud technologies and automation.\n\t- Passion for working on impactful projects and delivering real-world solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Expertise in cloud platforms and automation.\n\t- Hands-on experience in optimizing software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m interested in applying for a Summer Internship in 2025 at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Expertise in automation and software optimization.\n\t- Passion for contributing to impactful projects in the technology space.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m excited to explore internship opportunities at {{COMPANY_NAME}} for Summer 2025. Here’s what I offer:\n\n\t- Strong experience in software optimization and cloud technologies.\n\t- Expertise in developing real-time solutions that can make a positive impact.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of hands-on experience. I’m currently pursuing my Master’s at NYU.\n\nI’m interested in applying for a Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Experience with cloud platforms, automation, and optimizing software systems.\n\t- A passion for delivering real-time and impactful solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing a Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Strong expertise in automation and software engineering.\n\t- Proven ability to contribute to high-impact projects in cloud and real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m seeking a Summer Internship at {{COMPANY_NAME}} for 2025. Here’s what I bring to the table:\n\n\t- Strong background in cloud platforms and software optimization.\n\t- A passion for working on cutting-edge technologies and impactful solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Extensive expertise in automation and software optimization.\n\t- Experience in contributing to impactful projects and solving complex problems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m reaching out to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Expertise in software optimization and automation.\n\t- A passion for contributing to high-impact projects in cloud technologies.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience, currently pursuing a Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Experience with cloud platforms, software engineering, and real-time systems.\n\t- Strong background in delivering optimized and impactful software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to explore opportunities at {{COMPANY_NAME}} for a Summer Internship in 2025. I offer:\n\n\t- Strong expertise in automation and cloud technologies.\n\t- A passion for driving real-world solutions in software engineering.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Strong expertise in cloud technologies and automation.\n\t- A track record of delivering optimized software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I’m a full-stack developer with over 5 years of industry experience and currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Expertise in automation and real-time systems.\n\t- Proven ability to lead and execute high-impact projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of hands-on experience and currently pursuing my Master’s at NYU.\n\nI’m seeking a Summer Internship at {{COMPANY_NAME}} for 2025. What I bring to the table:\n\n\t- Extensive background in cloud technologies and software engineering.\n\t- Experience working with distributed systems and automation.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I can offer:\n\n\t- Hands-on expertise in cloud platforms and real-time systems.\n\t- Proven ability to contribute to high-impact projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited about the Summer 2025 Internship at {{COMPANY_NAME}}. What I bring to the table:\n\n\t- Expertise in automation and software optimization.\n\t- A passion for driving innovative tech solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    }
+  ],
+  "email_outro": [
+    "Looking forward to discussing how my skills align with your team’s needs.",
+    "Excited to explore how I can contribute to the success of your projects.",
+    "Eager to bring my expertise to {{COMPANY_NAME}} and collaborate on impactful projects.",
+    "Would love to connect and discuss how I can contribute to your team.",
+    "Excited to talk further about how my skills can support your mission at {{COMPANY_NAME}}.",
+    "Looking forward to the opportunity to discuss this further.",
+    "Eager to contribute my skills to {{COMPANY_NAME}} and support your team’s objectives.",
+    "I’d be thrilled to connect and discuss how I can bring value to your team.",
+    "Looking forward to connecting and exploring how I can make an impact at {{COMPANY_NAME}}.",
+    "Excited to discuss how my background can align with your team’s goals.",
+    "Looking forward to the chance to contribute my skills to your team.",
+    "Hoping to discuss how I can contribute my experience and enthusiasm to {{COMPANY_NAME}}.",
+    "Excited to explore how my background and skills can contribute to your team.",
+    "Looking forward to exploring how I can support your team’s goals.",
+    "Eager to discuss how I can contribute to {{COMPANY_NAME}}'s upcoming projects.",
+    "Looking forward to a conversation about how I can help drive success for your team.",
+    "Excited to explore how my skill set could complement your team’s projects.",
+    "Would love to discuss how I can help {{COMPANY_NAME}} deliver impactful solutions.",
+    "I’m eager to contribute my expertise to your team and support your mission.",
+    "I’d love the opportunity to talk further about contributing to {{COMPANY_NAME}}.",
+    "Excited to explore how I can help drive results for your team.",
+    "Looking forward to discussing how my skills can benefit {{COMPANY_NAME}}.",
+    "Excited to connect and discuss how my background fits {{COMPANY_NAME}}'s needs.",
+    "Would love the chance to discuss how I can make an impact at {{COMPANY_NAME}}.",
+    "Looking forward to connecting and exploring how I can contribute to your team’s success.",
+    "I’m eager to discuss how I can support your team with my background and experience.",
+    "I’d love to connect and discuss how I can contribute to your projects.",
+    "Looking forward to discussing how my skills can drive impactful projects at {{COMPANY_NAME}}.",
+    "Excited to explore the opportunity to bring my skills to {{COMPANY_NAME}}.",
+    "Eager to discuss how my experience can benefit {{COMPANY_NAME}}.",
+    "Looking forward to learning more about how I can contribute to your team’s success.",
+    "Excited to discuss how my background in software engineering can support your team.",
+    "I’d be thrilled to talk about how I can help {{COMPANY_NAME}} achieve its goals.",
+    "Excited to explore how I can bring value to {{COMPANY_NAME}} with my skills.",
+    "Looking forward to discussing how I can add value to your team.",
+    "Eager to connect and discuss how my experience aligns with your projects.",
+    "Excited to connect and discuss how I can support your team with my skills.",
+    "Looking forward to connecting and learning more about the opportunities at {{COMPANY_NAME}}.",
+    "Would love to explore how I can contribute to your impactful work at {{COMPANY_NAME}}.",
+    "Excited to see how my expertise in cloud technologies can support your team.",
+    "Looking forward to connecting and exploring the potential of working with {{COMPANY_NAME}}.",
+    "Eager to learn more about how my skills can benefit your team.",
+    "I’d love the chance to discuss how I can make an impact at {{COMPANY_NAME}}.",
+    "Looking forward to exploring how I can drive impactful results at {{COMPANY_NAME}}.",
+    "Excited to connect and discuss how my background can align with your team’s objectives.",
+    "Looking forward to discussing how I can support {{COMPANY_NAME}}'s mission.",
+    "Eager to talk about how my experience can help {{COMPANY_NAME}} succeed.",
+    "Excited to discuss the opportunity to collaborate with your team at {{COMPANY_NAME}}.",
+    "Looking forward to learning how I can bring value to your team’s upcoming projects.",
+    "I’d love the opportunity to connect and discuss how I can support your team’s goals."
+  ],
+  "email_greet": [
+    "Best regards,",
+    "Sincerely,",
+    "Kind regards,",
+    "Warm regards,",
+    "With gratitude,",
+    "Thank you,",
+    "Best,",
+    "Looking forward,",
+    "Respectfully,",
+    "Gratefully,",
+    "Yours sincerely,",
+    "Thanks in advance,",
+    "Warmly,",
+    "With best wishes,",
+    "With appreciation,",
+    "Looking forward to your response,",
+    "Have a great day,",
+    "Many thanks,",
+    "Stay well,",
+    "Wishing you the best,",
+    "Hope to hear from you soon,",
+    "With thanks,",
+    "Thank you for your time,",
+    "Wishing you all the best,",
+    "With kind regards,",
+    "Much appreciated,",
+    "With respect,",
+    "Looking forward to connecting,",
+    "Cordially,",
+    "Best wishes,",
+    "With warm regards,",
+    "Looking forward to working together,",
+    "Have a wonderful day,",
+    "Looking forward to speaking with you,",
+    "With my best,",
+    "Best regards and thank you,",
+    "Have a great week ahead,",
+    "With heartfelt thanks,",
+    "With respect and appreciation,",
+    "In appreciation,",
+    "Anticipating your reply,"
+  ],
+  "email_links": "Chinmay Shringi\n+1(201) 284-0211\nLinkedIn: https://www.linkedin.com/in/chinmay-shringi-105736173/\nGitHub: https://github.com/ChinmayShringi\nMy Website: https://chinmayshringi.web.app/",
+  "subject": [
+    "Strong Candidate with Cutting-Edge SDE Skills",
+    "Proven SDE Talent Ready to Deliver Impact",
+    "Innovative SDE with a Passion for Problem-Solving",
+    "Dynamic Full-Stack Developer Ready for New Challenges",
+    "SDE Professional with Expertise in Modern Technologies",
+    "Experienced SDE Ready to Drive Tech Innovation",
+    "Your Next SDE Asset: Skilled in Full-Stack Development",
+    "SDE with a Track Record of Delivering Scalable Solutions",
+    "Seasoned Software Engineer with Cloud Expertise",
+    "Expert Full-Stack Developer Looking to Make an Impact",
+    "Passionate SDE Ready to Tackle Complex Projects",
+    "Skilled SDE Available for Innovative Projects",
+    "SDE Proficient in Cloud & Application Development",
+    "Strong SDE Candidate with 5+ Years of Experience",
+    "Cutting-Edge Developer Eager to Join Your Team",
+    "Problem-Solving SDE with Expertise in Full-Stack Tech",
+    "Experienced SDE Seeking to Deliver High-Impact Solutions",
+    "SDE with Extensive Cloud Development Experience",
+    "Your Next SDE with Expertise in Modern Tech Stacks",
+    "Passionate Software Engineer Ready to Innovate",
+    "Driven SDE Ready to Elevate Your Development Team",
+    "Proven Full-Stack Developer with a Focus on Innovation",
+    "Highly Skilled SDE with Advanced Cloud Expertise",
+    "Innovative Developer Looking to Bring Value to Your Team",
+    "Expert Full-Stack Developer Seeking New Opportunities",
+    "Tech-Savvy SDE with Expertise in Modern Architectures",
+    "Motivated SDE Ready for Fast-Paced Development Challenges",
+    "Skilled Developer Ready to Make a Lasting Impact",
+    "Results-Driven Software Engineer Seeking New Horizons",
+    "Experienced SDE with a Passion for Full-Stack Dev",
+    "Your Next SDE Expert in Cloud & Scalable Solutions",
+    "Tech Innovator Ready to Join Your Engineering Team",
+    "Proactive SDE with Expertise in Full-Stack Development",
+    "Cutting-Edge SDE Ready to Tackle Challenging Projects",
+    "Driven Full-Stack Developer Seeking Impactful Roles",
+    "SDE with Extensive Cloud & Application Development Skills",
+    "Your Next Developer: Skilled in Cutting-Edge Technologies",
+    "Innovative SDE Ready to Contribute to Your Success",
+    "Proven Full-Stack SDE with a Passion for Innovation",
+    "Results-Oriented SDE Looking for Challenging Projects",
+    "Expert Full-Stack Developer Ready for New Opportunities",
+    "Tech-Savvy Software Engineer with a Focus on Scalability",
+    "SDE with Expertise in Cloud and Scalable Solutions",
+    "High-Impact SDE Ready to Join Your Development Team",
+    "Innovative SDE with Advanced Full-Stack Experience",
+    "Motivated Developer Seeking Fast-Paced Tech Projects",
+    "Skilled Full-Stack SDE with a Passion for Problem-Solving",
+    "Experienced Software Engineer with Cutting-Edge Skills",
+    "Dynamic SDE Looking to Tackle New Engineering Challenges",
+    "Expert Full-Stack SDE Ready to Make an Impact",
+    "Your Next SDE with Proven Full-Stack Expertise"
+  ],
+  "company_name": "McKesson",
+  "contacts": [
+    {
+      "name": "Chinmay",
+      "email": "chinmayusa4@gmail.com"
+    }
+  ],
+  "contact1s": [
+    {"name": "Harish", "email": "harish.gulati@mckesson.com"},
+    {"name": "Joshua", "email": "joshua.clancy@mckesson.com"},
+    {"name": "Parul", "email": "parul.kaura@mckesson.com"},
+    {"name": "Janna", "email": "janna.haley@mckesson.com"},
+    {"name": "Heather", "email": "heather.dixon@mckesson.com"},
+    {"name": "Loren", "email": "loren.king@mckesson.com"},
+    {"name": "Thulasi", "email": "thulasi.ramamoorthy@mckesson.com"},
+    {"name": "Abigail", "email": "abigail.kommor@mckesson.com"},
+    {"name": "Naomi", "email": "naomi.brackney@mckesson.com"},
+    {"name": "Sumer", "email": "sumer.h@mckesson.com"},
+    {"name": "Jackie", "email": "jackie.burress@mckesson.com"},
+    {"name": "Dionne", "email": "dionne.smith@mckesson.com"},
+    {"name": "Keana", "email": "keana.albalos@mckesson.com"},
+    {"name": "Kat", "email": "kat.spaulding@mckesson.com"},
+    {"name": "Bethany", "email": "bethany.adams@mckesson.com"},
+    {"name": "Mattie", "email": "mattie.rush@mckesson.com"},
+    {"name": "Laura", "email": "laura.peck@mckesson.com"},
+    {"name": "Kerrie", "email": "kerrie.corrigan@mckesson.com"},
+    {"name": "Sarah", "email": "sarah.l@mckesson.com"},
+    {"name": "Shadow", "email": "shadow.d@mckesson.com"},
+    {"name": "Karen", "email": "karen.spears@mckesson.com"},
+    {"name": "Kathleen", "email": "kathleen.blevens@mckesson.com"},
+    {"name": "Julia", "email": "julia.proite@mckesson.com"},
+    {"name": "Kristi", "email": "kristi.gladney@mckesson.com"},
+    {"name": "Tori", "email": "tori.whitfield@mckesson.com"},
+    {"name": "Gregg", "email": "gregg.klofenstine@mckesson.com"},
+    {"name": "Susanne", "email": "susanne.braun@mckesson.com"},
+    {"name": "Katherine", "email": "katherine.manetas@mckesson.com"},
+    {"name": "Angie", "email": "angie.ivicak@mckesson.com"},
+    {"name": "Lianne", "email": "lianne.daues@mckesson.com"},
+    {"name": "Lucia", "email": "lucia.burcu@mckesson.com"},
+    {"name": "Garner", "email": "garner.elliott@mckesson.com"},
+    {"name": "Shea", "email": "shea.saturno@mckesson.com"},
+    {"name": "Melissa", "email": "melissa.sheldon@mckesson.com"},
+    {"name": "Tierney", "email": "tierney.jackson@mckesson.com"},
+    {"name": "Lori", "email": "lori.p@mckesson.com"},
+    {"name": "Katie", "email": "katie.years@mckesson.com"},
+    {"name": "Megan", "email": "megan.charow@mckesson.com"},
+    {"name": "Erin", "email": "erin.roche@mckesson.com"},
+    {"name": "Patrick", "email": "patrick.edgar@mckesson.com"},
+    {"name": "Amy", "email": "amy.rose@mckesson.com"},
+    {"name": "Lauryn", "email": "lauryn.wright@mckesson.com"},
+    {"name": "Joe", "email": "joe.ryder@mckesson.com"},
+    {"name": "Matthew", "email": "matthew.jones@mckesson.com"},
+    {"name": "Shannon", "email": "shannon.long@mckesson.com"},
+    {"name": "Tyler", "email": "tyler.cummings@mckesson.com"},
+    {"name": "Candace", "email": "candace.tucker@mckesson.com"},
+    {"name": "Amelia", "email": "amelia.gomez@mckesson.com"},
+    {"name": "Charmaine", "email": "charmaine.pummill@mckesson.com"},
+    {"name": "Paula", "email": "paula.wood@mckesson.com"},
+    {"name": "Leslie", "email": "leslie.crowder@mckesson.com"},
+    {"name": "Michael", "email": "michael.oquinn@mckesson.com"},
+    {"name": "Janet", "email": "janet.krasinski@mckesson.com"},
+    {"name": "Courtney", "email": "courtney.chinn@mckesson.com"},
+    {"name": "Haley", "email": "haley.delagrana@mckesson.com"},
+    {"name": "Ben", "email": "ben.pearson@mckesson.com"},
+    {"name": "Kristen", "email": "kristen.douglas@mckesson.com"},
+    {"name": "Amy", "email": "amy.h@mckesson.com"},
+    {"name": "Sophia", "email": "sophia.saxena@mckesson.com"},
+    {"name": "Leah", "email": "leah.leever@mckesson.com"},
+    {"name": "Chuks", "email": "chuks.m@mckesson.com"},
+    {"name": "Jade", "email": "jade.gray@mckesson.com"},
+    {"name": "Kathryn", "email": "kathryn.capogrossi@mckesson.com"},
+    {"name": "Ashley", "email": "ashley.m@mckesson.com"},
+    {"name": "Juan", "email": "juan.taquechel@mckesson.com"},
+    {"name": "Kate", "email": "kate.stokes@mckesson.com"},
+    {"name": "Crystal", "email": "crystal.r@mckesson.com"},
+    {"name": "Adriana", "email": "adriana.sullivan@mckesson.com"},
+    {"name": "Aseel", "email": "aseel.tungekar@mckesson.com"},
+    {"name": "Chris", "email": "chris.lecocke@mckesson.com"},
+    {"name": "Yusra", "email": "yusra.abid@mckesson.com"},
+    {"name": "Eric", "email": "eric.crain@mckesson.com"},
+    {"name": "Shiree", "email": "shiree.mason@mckesson.com"},
+    {"name": "Amy", "email": "amy.weber@mckesson.com"},
+    {"name": "Jake", "email": "jake.kacir@mckesson.com"},
+    {"name": "Don", "email": "don.mitchum@mckesson.com"},
+    {"name": "Joann", "email": "joann.lawson@mckesson.com"},
+    {"name": "Connor", "email": "connor.tull@mckesson.com"},
+    {"name": "Michelle", "email": "michelle.dominick@mckesson.com"},
+    {"name": "Brad", "email": "brad.gray@mckesson.com"},
+    {"name": "Aiza", "email": "aiza.a@mckesson.com"},
+    {"name": "Jessica", "email": "jessica.horne@mckesson.com"},
+    {"name": "Jenna", "email": "jenna.shearer@mckesson.com"},
+    {"name": "Mary Ann", "email": "maryann.quintrell@mckesson.com"},
+    {"name": "Cindy", "email": "cindy.lopez@mckesson.com"},
+    {"name": "Garrett", "email": "garrett.paulin@mckesson.com"},
+    {"name": "Jenae", "email": "jenae.stokes@mckesson.com"},
+    {"name": "Katherine", "email": "katherine.spowart@mckesson.com"},
+    {"name": "Jenna", "email": "jenna.straub@mckesson.com"},
+    {"name": "John", "email": "john.igoe@mckesson.com"},
+    {"name": "Liz", "email": "liz.ronnowwallis@mckesson.com"},
+    {"name": "Marli", "email": "marli.h@mckesson.com"},
+    {"name": "Jill", "email": "jill.bates@mckesson.com"},
+    {"name": "Shelley", "email": "shelley.burchett@mckesson.com"},
+    {"name": "Perry", "email": "perry.shifflett@mckesson.com"},
+    {"name": "Molly", "email": "molly.pottkotter@mckesson.com"},
+    {"name": "Ines", "email": "ines.morton@mckesson.com"},
+    {"name": "Nicky", "email": "nicky.gibson@mckesson.com"},
+    {"name": "Stephanie", "email": "stephanie.keitt@mckesson.com"},
+    {"name": "Robert", "email": "robert.malaniuk@mckesson.com"},
+    {"name": "Jessica", "email": "jessica.selbert@mckesson.com"},
+    {"name": "Antoinette", "email": "antoinette.branch@mckesson.com"},
+    {"name": "Victoria", "email": "victoria.n@mckesson.com"},
+    {"name": "Casey", "email": "casey.bradford@mckesson.com"},
+    {"name": "Stacey", "email": "stacey.shelley@mckesson.com"},
+    {"name": "Andrea", "email": "andrea.clingerman@mckesson.com"},
+    {"name": "Alanna", "email": "alanna.gaylord@mckesson.com"},
+    {"name": "Alisha", "email": "alisha.monnette@mckesson.com"},
+    {"name": "Margaux", "email": "margaux.elliott@mckesson.com"},
+    {"name": "Sheila", "email": "sheila.patterson@mckesson.com"},
+    {"name": "Kara", "email": "kara.gibson@mckesson.com"},
+    {"name": "Elizabeth", "email": "elizabeth.spurlock@mckesson.com"},
+    {"name": "Michael", "email": "michael.ward@mckesson.com"},
+    {"name": "Shiela", "email": "shiela.mindajao@mckesson.com"},
+    {"name": "Madeline", "email": "madeline.griffin@mckesson.com"},
+    {"name": "Wendy", "email": "wendy.spiriti@mckesson.com"},
+    {"name": "Joshua", "email": "joshua.smith@mckesson.com"},
+    {"name": "Veni", "email": "veni.cesta@mckesson.com"},
+    {"name": "Athalia", "email": "athalia.j@mckesson.com"},
+    {"name": "Joanne", "email": "joanne.fischer@mckesson.com"},
+    {"name": "Shawn", "email": "shawn.russell@mckesson.com"},
+    {"name": "Samuel", "email": "samuel.sohnly@mckesson.com"},
+    {"name": "Kayli", "email": "kayli.f@mckesson.com"},
+    {"name": "Lisa", "email": "lisa.g@mckesson.com"},
+    {"name": "Connor", "email": "connor.holt@mckesson.com"},
+    {"name": "Justin", "email": "justin.sinopoli@mckesson.com"},
+    {"name": "Jemaila", "email": "jemaila.duffy@mckesson.com"},
+    {"name": "Nate", "email": "nate.hightower@mckesson.com"},
+    {"name": "Margaret", "email": "margaret.buzenski@mckesson.com"},
+    {"name": "Shawn", "email": "shawn.laghaifar@mckesson.com"},
+    {"name": "Bethany", "email": "bethany.owens@mckesson.com"},
+    {"name": "Lisa", "email": "lisa.shurtz@mckesson.com"},
+    {"name": "Lesli", "email": "lesli.garris@mckesson.com"},
+    {"name": "Asia", "email": "asia.nero@mckesson.com"},
+    {"name": "Anneliese", "email": "anneliese.caldwell@mckesson.com"},
+    {"name": "Jackie", "email": "jackie.hunt@mckesson.com"},
+    {"name": "Brandi", "email": "brandi.reed@mckesson.com"},
+    {"name": "Corey", "email": "corey.maike@mckesson.com"},
+    {"name": "Robin", "email": "robin.tyus@mckesson.com"},
+    {"name": "Yen", "email": "yen.chung@mckesson.com"},
+    {"name": "Loriel", "email": "loriel.mitchell@mckesson.com"},
+    {"name": "Brandon", "email": "brandon.leahy@mckesson.com"},
+    {"name": "Dan", "email": "dan.watson@mckesson.com"},
+    {"name": "Casey", "email": "casey.murray@mckesson.com"},
+    {"name": "Vaishali", "email": "vaishali.patel@mckesson.com"},
+    {"name": "Jake", "email": "jake.welty@mckesson.com"},
+    {"name": "Carolyn", "email": "carolyn.kimmel@mckesson.com"},
+    {"name": "Jeffrey", "email": "jeffrey.farnsworth@mckesson.com"},
+    {"name": "Jackie", "email": "jackie.salerno@mckesson.com"},
+    {"name": "Tianna", "email": "tianna.sanchez@mckesson.com"},
+    {"name": "Nicole", "email": "nicole.dunlap@mckesson.com"},
+    {"name": "James", "email": "james.shaw@mckesson.com"},
+    {"name": "Karla", "email": "karla.scanlan@mckesson.com"},
+    {"name": "Kara", "email": "kara.norman@mckesson.com"},
+    {"name": "Corinne", "email": "corinne.strolger@mckesson.com"},
+    {"name": "Danielle", "email": "danielle.m@mckesson.com"},
+    {"name": "Autumn", "email": "autumn.b@mckesson.com"},
+    {"name": "Hunter", "email": "hunter.hackney@mckesson.com"},
+    {"name": "M", "email": "m.morris@mckesson.com"},
+    {"name": "Ben", "email": "ben.holmes@mckesson.com"},
+    {"name": "Chasity", "email": "chasity.iler@mckesson.com"},
+    {"name": "Maggie", "email": "maggie.tannehill@mckesson.com"},
+    {"name": "Trevor", "email": "trevor.skanes@mckesson.com"},
+    {"name": "Jennifer", "email": "jennifer.herdman@mckesson.com"},
+    {"name": "Kaci", "email": "kaci.payne@mckesson.com"},
+    {"name": "Brady", "email": "brady.valego@mckesson.com"},
+    {"name": "Molly", "email": "molly.otten@mckesson.com"},
+    {"name": "Caroline", "email": "caroline.partin@mckesson.com"},
+    {"name": "Brad", "email": "brad.phelps@mckesson.com"},
+    {"name": "Patra", "email": "patra.b@mckesson.com"},
+    {"name": "Margarita", "email": "margarita.g@mckesson.com"},
+    {"name": "Tristyn", "email": "tristyn.brewton@mckesson.com"},
+    {"name": "Josh", "email": "josh.freed@mckesson.com"},
+    {"name": "Colby", "email": "colby.w@mckesson.com"},
+    {"name": "Dain", "email": "dain.hurley@mckesson.com"},
+    {"name": "McKenna", "email": "mckenna.rohm@mckesson.com"},
+    {"name": "Kaleshia", "email": "kaleshia.bryant@mckesson.com"},
+    {"name": "Richie", "email": "richie.gallanosa@mckesson.com"},
+    {"name": "Allison", "email": "allison.rooney@mckesson.com"},
+    {"name": "Kaitlyn", "email": "kaitlyn.ward@mckesson.com"},
+    {"name": "Sarah", "email": "sarah.golden@mckesson.com"},
+    {"name": "Katharine", "email": "katharine.shafferman@mckesson.com"},
+    {"name": "Jasmine", "email": "jasmine.jordan@mckesson.com"},
+    {"name": "James", "email": "james.zotzky@mckesson.com"},
+    {"name": "Gerard", "email": "gerard.d@mckesson.com"},
+    {"name": "Elizabeth", "email": "elizabeth.hobson@mckesson.com"},
+    {"name": "Austin", "email": "austin.schneider@mckesson.com"},
+    {"name": "Jessica", "email": "jessica.seal@mckesson.com"},
+    {"name": "Taylor", "email": "taylor.espigh@mckesson.com"},
+    {"name": "Melanie", "email": "melanie.venture@mckesson.com"},
+    {"name": "Cory", "email": "cory.cates@mckesson.com"},
+    {"name": "Brandon", "email": "brandon.r@mckesson.com"}
+  ]
+}

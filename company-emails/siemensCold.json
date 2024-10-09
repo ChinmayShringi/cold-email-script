@@ -1,0 +1,776 @@
+{
+  "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I understand your time is valuable, so I’ll keep it brief. I am:\n\n\t- A full-stack developer with over 5 years of industry experience.\n\t- Currently pursuing a Master’s in Computer Engineering at New York University (NYU).\n\nI am interested in a Summer Internship in 2025 at Siemens. Here’s what I bring to the table:\n\n\t- A strong passion for developing innovative technologies and hands-on experience in software engineering, automation, and real-time systems.\n\t- The ability to contribute to impactful projects, utilizing my skills to help Siemens continue delivering state-of-the-art technology and solutions.\n\nThank you for considering my application. I would be thrilled to discuss how I could contribute to your team.\n\nBest regards,\nChinmay Shringi\n+1(201) 284-0211\nLinkedIn: https://www.linkedin.com/in/chinmay-shringi-105736173/\nGitHub: https://github.com/ChinmayShringi\nMy Website: https://chinmayshringi.web.app/",
+  "subject": "Internship Candidate with Strong SDE Skills",
+  "contacts1": [
+    {
+      "name": "Chinmay",
+      "email": "chinmayusa4@gmail.com"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Nicole",
+      "email": "nicole.terrizzi@siemens.com"
+    },
+    {
+      "name": "Kayla",
+      "email": "kayla.wilson@siemens.com"
+    },
+    {
+      "name": "Jason",
+      "email": "jason.ollie@siemens.com"
+    },
+    {
+      "name": "Raymond",
+      "email": "raymond.smith@siemens.com"
+    },
+    {
+      "name": "Brian",
+      "email": "brian.donohue@siemens.com"
+    },
+    {
+      "name": "Evelyn",
+      "email": "evelyn.zilch@siemens.com"
+    },
+    {
+      "name": "Sterling",
+      "email": "sterling.elder@siemens.com"
+    },
+    {
+      "name": "Heather",
+      "email": "heather.williams@siemens.com"
+    },
+    {
+      "name": "Vickiana",
+      "email": "vickiana.ventura@siemens.com"
+    },
+    {
+      "name": "Paul",
+      "email": "paul.smith@siemens.com"
+    },
+    {
+      "name": "Cody",
+      "email": "cody.robertson@siemens.com"
+    },
+    {
+      "name": "Neha",
+      "email": "neha.garg@siemens.com"
+    },
+    {
+      "name": "Emily",
+      "email": "emily.witt@siemens.com"
+    },
+    {
+      "name": "Dalee",
+      "email": "dalee.byrd@siemens.com"
+    },
+    {
+      "name": "David",
+      "email": "david.jercha@siemens.com"
+    },
+    {
+      "name": "Danielle",
+      "email": "danielle.gillie@siemens.com"
+    },
+    {
+      "name": "Vincent",
+      "email": "vincent.m@siemens.com"
+    },
+    {
+      "name": "Nancy",
+      "email": "nancy.dye@siemens.com"
+    },
+    {
+      "name": "Christel",
+      "email": "christel.lilly@siemens.com"
+    },
+    {
+      "name": "Laurie",
+      "email": "laurie.small@siemens.com"
+    },
+    {
+      "name": "Emin",
+      "email": "emin.salehli@siemens.com"
+    },
+    {
+      "name": "Will",
+      "email": "will.childs@siemens.com"
+    },
+    {
+      "name": "Amanda",
+      "email": "amanda.gilbert@siemens.com"
+    },
+    {
+      "name": "Jessica",
+      "email": "jessica.sitzes@siemens.com"
+    },
+    {
+      "name": "Roshelle",
+      "email": "roshelle.bennett@siemens.com"
+    },
+    {
+      "name": "Jenifer",
+      "email": "jenifer.t@siemens.com"
+    },
+    {
+      "name": "Jodie",
+      "email": "jodie.bochinski@siemens.com"
+    },
+    {
+      "name": "Amy",
+      "email": "amy.mcmahon@siemens.com"
+    },
+    {
+      "name": "Tina",
+      "email": "tina.aguila@siemens.com"
+    },
+    {
+      "name": "Jessica",
+      "email": "jessica.marlis@siemens.com"
+    },
+    {
+      "name": "Jodi",
+      "email": "jodi.householder@siemens.com"
+    },
+    {
+      "name": "Angeles",
+      "email": "angeles.vargas@siemens.com"
+    },
+    {
+      "name": "Amy",
+      "email": "amy.scheurle@siemens.com"
+    },
+    {
+      "name": "Dawn",
+      "email": "dawn.kalish@siemens.com"
+    },
+    {
+      "name": "Smruti",
+      "email": "smruti.mohanty@siemens.com"
+    },
+    {
+      "name": "Chris",
+      "email": "chris.wyatt@siemens.com"
+    },
+    {
+      "name": "Sophie",
+      "email": "sophie.nicholas@siemens.com"
+    },
+    {
+      "name": "Vicky",
+      "email": "vicky.schubert@siemens.com"
+    },
+    {
+      "name": "Kara",
+      "email": "kara.lopezrogers@siemens.com"
+    },
+    {
+      "name": "Deb",
+      "email": "deb.weakland@siemens.com"
+    },
+    {
+      "name": "Steve",
+      "email": "steve.halverson@siemens.com"
+    },
+    {
+      "name": "Charlie",
+      "email": "charlie.martinez@siemens.com"
+    },
+    {
+      "name": "Al",
+      "email": "al.barry@siemens.com"
+    },
+    {
+      "name": "Valerie",
+      "email": "valerie.kennerson@siemens.com"
+    },
+    {
+      "name": "Tim",
+      "email": "tim.barber@siemens.com"
+    },
+    {
+      "name": "Deanna",
+      "email": "deanna.y@siemens.com"
+    },
+    {
+      "name": "Tinisha",
+      "email": "tinisha.merricks@siemens.com"
+    },
+    {
+      "name": "Mita",
+      "email": "mita.patel@siemens.com"
+    },
+    {
+      "name": "Harold",
+      "email": "harold.h@siemens.com"
+    },
+    {
+      "name": "Jenny",
+      "email": "jenny.plant@siemens.com"
+    },
+    {
+      "name": "Alicia",
+      "email": "alicia.hoover@siemens.com"
+    },
+    {
+      "name": "Kristine",
+      "email": "kristine.irwin@siemens.com"
+    },
+    {
+      "name": "Kara",
+      "email": "kara.colangelo@siemens.com"
+    },
+    {
+      "name": "Brett",
+      "email": "brett.sanchez@siemens.com"
+    },
+    {
+      "name": "Fabienne",
+      "email": "fabienne.bressot@siemens.com"
+    },
+    {
+      "name": "Greg",
+      "email": "greg.plavcan@siemens.com"
+    },
+    {
+      "name": "Marianne",
+      "email": "marianne.stolzer@siemens.com"
+    },
+    {
+      "name": "Kate",
+      "email": "kate.niemi@siemens.com"
+    },
+    {
+      "name": "Jamie",
+      "email": "jamie.sidwell@siemens.com"
+    },
+    {
+      "name": "Elizabeth",
+      "email": "elizabeth.baker@siemens.com"
+    },
+    {
+      "name": "Ebony",
+      "email": "ebony.j@siemens.com"
+    },
+    {
+      "name": "Francis",
+      "email": "francis.brown@siemens.com"
+    },
+    {
+      "name": "Michael",
+      "email": "michael.cseplo@siemens.com"
+    },
+    {
+      "name": "Blake",
+      "email": "blake.siewert@siemens.com"
+    },
+    {
+      "name": "Yalitza",
+      "email": "yalitza.jimenez@siemens.com"
+    },
+    {
+      "name": "Scott",
+      "email": "scott.ford@siemens.com"
+    },
+    {
+      "name": "Brittney",
+      "email": "brittney.hart@siemens.com"
+    },
+    {
+      "name": "Kelly",
+      "email": "kelly.saylor@siemens.com"
+    },
+    {
+      "name": "Amanda",
+      "email": "amanda.sellier@siemens.com"
+    },
+    {
+      "name": "Emily",
+      "email": "emily.leon@siemens.com"
+    },
+    {
+      "name": "Ben",
+      "email": "ben.campbell@siemens.com"
+    },
+    {
+      "name": "Denise",
+      "email": "denise.cook@siemens.com"
+    },
+    {
+      "name": "Jose",
+      "email": "jose.munoz@siemens.com"
+    },
+    {
+      "name": "Diane",
+      "email": "diane.breitkreuzrutkowski@siemens.com"
+    },
+    {
+      "name": "Michael",
+      "email": "michael.bolinger@siemens.com"
+    },
+    {
+      "name": "Christopher",
+      "email": "christopher.james@siemens.com"
+    },
+    {
+      "name": "Lori",
+      "email": "lori.krantz@siemens.com"
+    },
+    {
+      "name": "Kerin",
+      "email": "kerin.colby@siemens.com"
+    },
+    {
+      "name": "Kelly",
+      "email": "kelly.kramer@siemens.com"
+    },
+    {
+      "name": "Tricia",
+      "email": "tricia.hayes@siemens.com"
+    },
+    {
+      "name": "Terance",
+      "email": "terance.mahoney@siemens.com"
+    },
+    {
+      "name": "Claire",
+      "email": "claire.horita@siemens.com"
+    },
+    {
+      "name": "Andrew",
+      "email": "andrew.russell@siemens.com"
+    },
+    {
+      "name": "Emmanuel",
+      "email": "emmanuel.johnson@siemens.com"
+    },
+    {
+      "name": "Christian",
+      "email": "christian.hahn@siemens.com"
+    },
+    {
+      "name": "Bob",
+      "email": "bob.jones@siemens.com"
+    },
+    {
+      "name": "Kara",
+      "email": "kara.bracy@siemens.com"
+    },
+    {
+      "name": "Karrie",
+      "email": "karrie.lee@siemens.com"
+    },
+    {
+      "name": "McKenzie",
+      "email": "mckenzie.jenkins@siemens.com"
+    },
+    {
+      "name": "Laura",
+      "email": "laura.brenner@siemens.com"
+    },
+    {
+      "name": "Amanda",
+      "email": "amanda.flick@siemens.com"
+    },
+    {
+      "name": "Antonio",
+      "email": "antonio.camacho@siemens.com"
+    },
+    {
+      "name": "Phil",
+      "email": "phil.churilla@siemens.com"
+    },
+    {
+      "name": "Brian",
+      "email": "brian.mcneil@siemens.com"
+    },
+    {
+      "name": "Mike",
+      "email": "mike.demarest@siemens.com"
+    },
+    {
+      "name": "Isabel",
+      "email": "isabel.mccoy@siemens.com"
+    },
+    {
+      "name": "Vera",
+      "email": "vera.ciminillo@siemens.com"
+    },
+    {
+      "name": "Erika",
+      "email": "erika.k@siemens.com"
+    },
+    {
+      "name": "Jennifer",
+      "email": "jennifer.wenke@siemens.com"
+    },
+    {
+      "name": "Karen",
+      "email": "karen.fogas@siemens.com"
+    },
+    {
+      "name": "Erin",
+      "email": "erin.henning@siemens.com"
+    },
+    {
+      "name": "Asdrubal",
+      "email": "asdrubal.castillo@siemens.com"
+    },
+    {
+      "name": "Bryan",
+      "email": "bryan.murray@siemens.com"
+    },
+    {
+      "name": "Viviana",
+      "email": "viviana.gutierrez@siemens.com"
+    },
+    {
+      "name": "William",
+      "email": "william.adams@siemens.com"
+    },
+    {
+      "name": "Jeff",
+      "email": "jeff.kimball@siemens.com"
+    },
+    {
+      "name": "Jennet",
+      "email": "jennet.salcie@siemens.com"
+    },
+    {
+      "name": "Andy",
+      "email": "andy.warmack@siemens.com"
+    },
+    {
+      "name": "Christopher",
+      "email": "christopher.richards@siemens.com"
+    },
+    {
+      "name": "Briana",
+      "email": "briana.h@siemens.com"
+    },
+    {
+      "name": "Jill",
+      "email": "jill.edmondson@siemens.com"
+    },
+    {
+      "name": "Mark",
+      "email": "mark.pikul@siemens.com"
+    },
+    {
+      "name": "Anne-Laure",
+      "email": "anne-laure.muller@siemens.com"
+    },
+    {
+      "name": "Lisa",
+      "email": "lisa.platek@siemens.com"
+    },
+    {
+      "name": "Diane",
+      "email": "diane.clapp@siemens.com"
+    },
+    {
+      "name": "Anne",
+      "email": "anne.lefevre@siemens.com"
+    },
+    {
+      "name": "Antigoni",
+      "email": "antigoni.themistokleous@siemens.com"
+    },
+    {
+      "name": "Sharon",
+      "email": "sharon.fisher@siemens.com"
+    },
+    {
+      "name": "John",
+      "email": "john.e@siemens.com"
+    },
+    {
+      "name": "Kristyn",
+      "email": "kristyn.hoffman@siemens.com"
+    },
+    {
+      "name": "Mark",
+      "email": "mark.leyderman@siemens.com"
+    },
+    {
+      "name": "Sam",
+      "email": "sam.cade@siemens.com"
+    },
+    {
+      "name": "Olivia",
+      "email": "olivia.cai@siemens.com"
+    },
+    {
+      "name": "Timothy",
+      "email": "timothy.turgeon@siemens.com"
+    },
+    {
+      "name": "Cheri",
+      "email": "cheri.hurtubise@siemens.com"
+    },
+    {
+      "name": "Lawrence",
+      "email": "lawrence.galardi@siemens.com"
+    },
+    {
+      "name": "Susan",
+      "email": "susan.hines@siemens.com"
+    },
+    {
+      "name": "Cody",
+      "email": "cody.wyatt@siemens.com"
+    },
+    {
+      "name": "Nathan",
+      "email": "nathan.speer@siemens.com"
+    },
+    {
+      "name": "Alana",
+      "email": "alana.ferreiradasilva@siemens.com"
+    },
+    {
+      "name": "James",
+      "email": "james.y@siemens.com"
+    },
+    {
+      "name": "Michelle",
+      "email": "michelle.p@siemens.com"
+    },
+    {
+      "name": "Laura",
+      "email": "laura.carlson@siemens.com"
+    },
+    {
+      "name": "Dawn",
+      "email": "dawn.mantich@siemens.com"
+    },
+    {
+      "name": "Dianna",
+      "email": "dianna.passarelli@siemens.com"
+    },
+    {
+      "name": "Brian",
+      "email": "brian.gokey@siemens.com"
+    },
+    {
+      "name": "Joan",
+      "email": "joan.williams@siemens.com"
+    },
+    {
+      "name": "Michelle",
+      "email": "michelle.miller@siemens.com"
+    },
+    {
+      "name": "Qiu",
+      "email": "qiu.shmily@siemens.com"
+    },
+    {
+      "name": "Regina",
+      "email": "regina.santos@siemens.com"
+    },
+    {
+      "name": "Lorelei",
+      "email": "lorelei.richards@siemens.com"
+    },
+    {
+      "name": "Caroline",
+      "email": "caroline.robinson@siemens.com"
+    },
+    {
+      "name": "Joel",
+      "email": "joel.m@siemens.com"
+    },
+    {
+      "name": "Jeff",
+      "email": "jeff.moore@siemens.com"
+    },
+    {
+      "name": "Steven",
+      "email": "steven.nowaczyk@siemens.com"
+    },
+    {
+      "name": "Sherry",
+      "email": "sherry.j@siemens.com"
+    },
+    {
+      "name": "Karen",
+      "email": "karen.kennedy@siemens.com"
+    },
+    {
+      "name": "Karina",
+      "email": "karina.aguirre@siemens.com"
+    },
+    {
+      "name": "Cheryl",
+      "email": "cheryl.myers@siemens.com"
+    },
+    {
+      "name": "Ainslie",
+      "email": "ainslie.gilchrist@siemens.com"
+    },
+    {
+      "name": "Jennifer",
+      "email": "jennifer.warman@siemens.com"
+    },
+    {
+      "name": "Andrea",
+      "email": "andrea.wright@siemens.com"
+    },
+    {
+      "name": "LaToya",
+      "email": "latoya.alexander@siemens.com"
+    },
+    {
+      "name": "Mike",
+      "email": "mike.krause@siemens.com"
+    },
+    {
+      "name": "Diana",
+      "email": "diana.munar@siemens.com"
+    },
+    {
+      "name": "Tiffany",
+      "email": "tiffany.cutrofolisi@siemens.com"
+    },
+    {
+      "name": "Cathy",
+      "email": "cathy.sciacca@siemens.com"
+    },
+    {
+      "name": "Hilary",
+      "email": "hilary.jessop@siemens.com"
+    },
+    {
+      "name": "Bridget",
+      "email": "bridget.benesch@siemens.com"
+    },
+    {
+      "name": "Valerie",
+      "email": "valerie.thomas@siemens.com"
+    },
+    {
+      "name": "Monique",
+      "email": "monique.standeford@siemens.com"
+    },
+    {
+      "name": "Karen",
+      "email": "karen.malone@siemens.com"
+    },
+    {
+      "name": "Nyeedra",
+      "email": "nyeedra.h@siemens.com"
+    },
+    {
+      "name": "Kayci",
+      "email": "kayci.shank@siemens.com"
+    },
+    {
+      "name": "Althea",
+      "email": "althea.beaton@siemens.com"
+    },
+    {
+      "name": "Elina",
+      "email": "elina.piken@siemens.com"
+    },
+    {
+      "name": "Natasha",
+      "email": "natasha.johnson@siemens.com"
+    },
+    {
+      "name": "Beck",
+      "email": "beck.benson@siemens.com"
+    },
+    {
+      "name": "Trey",
+      "email": "trey.smith@siemens.com"
+    },
+    {
+      "name": "Granaz",
+      "email": "granaz.movahed@siemens.com"
+    },
+    {
+      "name": "Chandra",
+      "email": "chandra.d@siemens.com"
+    },
+    {
+      "name": "Wesner",
+      "email": "wesner.jean@siemens.com"
+    },
+    {
+      "name": "Michael",
+      "email": "michael.walsh@siemens.com"
+    },
+    {
+      "name": "Jamie",
+      "email": "jamie.creed@siemens.com"
+    },
+    {
+      "name": "PJ",
+      "email": "pj.aguilar@siemens.com"
+    },
+    {
+      "name": "Alejandro",
+      "email": "alejandro.rodriguez@siemens.com"
+    },
+    {
+      "name": "Jake",
+      "email": "jake.mohr@siemens.com"
+    },
+    {
+      "name": "Skylar",
+      "email": "skylar.mohr@siemens.com"
+    },
+    {
+      "name": "Nicole",
+      "email": "nicole.kirby@siemens.com"
+    },
+    {
+      "name": "Stuart",
+      "email": "stuart.zamora@siemens.com"
+    },
+    {
+      "name": "Brent",
+      "email": "brent.oconnor@siemens.com"
+    },
+    {
+      "name": "Wendy",
+      "email": "wendy.burkhardt@siemens.com"
+    },
+    {
+      "name": "Chelvis",
+      "email": "chelvis.marshall@siemens.com"
+    },
+    {
+      "name": "Jeremy",
+      "email": "jeremy.goldberg@siemens.com"
+    },
+    {
+      "name": "Claudia",
+      "email": "claudia.guzman@siemens.com"
+    },
+    {
+      "name": "Franco",
+      "email": "franco.nasello@siemens.com"
+    },
+    {
+      "name": "Brittany",
+      "email": "brittany.park@siemens.com"
+    },
+    {
+      "name": "Paul",
+      "email": "paul.chin@siemens.com"
+    },
+    {
+      "name": "Mike",
+      "email": "mike.schindler@siemens.com"
+    },
+    {
+      "name": "Ed",
+      "email": "ed.shutty@siemens.com"
+    },
+    {
+      "name": "Kristen",
+      "email": "kristen.kessler@siemens.com"
+    }
+  ]
+}

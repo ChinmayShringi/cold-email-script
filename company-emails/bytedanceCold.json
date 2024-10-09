@@ -1,0 +1,353 @@
+{
+  "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I understand your time is valuable, so I’ll keep it brief. I am:\n\n\t- A full-stack developer with over 5 years of industry experience.\n\t- Currently pursuing a Master’s in Computer Engineering at New York University (NYU).\n\nI am interested in a Summer Internship in 2025 at ByteDance. Here’s what I bring to the table:\n\n\t- A strong passion for innovation and hands-on experience with real-time analytics, machine learning, and cutting-edge technologies.\n\t- The ability to contribute to impactful projects, utilizing my skills to help ByteDance continue revolutionizing digital products and empower people through technology.\n\nThank you for considering my application. I would be thrilled to discuss how I could contribute to your team.\n\nBest regards,\nChinmay Shringi\n+1(201) 284-0211\nLinkedIn: https://www.linkedin.com/in/chinmay-shringi-105736173/\nGitHub: https://github.com/ChinmayShringi\nMy Website: https://chinmayshringi.web.app/",
+  "subject": "Enthusiastic Computer Engineering Student Seeking Internship at ByteDance",
+  "contact1s": [
+    {
+      "name": "Chinmay Shringi",
+      "email": "chinmayusa4@gmail.com"
+    }
+  ],
+  "contacts": [
+    {
+        "name": "April",
+        "email": "april.liu@bytedance.com"
+    },
+    {
+        "name": "Paola",
+        "email": "paola.pichardo@bytedance.com"
+    },
+    {
+        "name": "Olivia",
+        "email": "olivia.zhang@bytedance.com"
+    },
+    {
+        "name": "Saina",
+        "email": "saina.yu@bytedance.com"
+    },
+    {
+        "name": "Huanhuan",
+        "email": "huanhuan.he@bytedance.com"
+    },
+    {
+        "name": "Heather",
+        "email": "heather.w@bytedance.com"
+    },
+    {
+        "name": "Angela",
+        "email": "angela.ke@bytedance.com"
+    },
+    {
+        "name": "Alena",
+        "email": "alena.fenchel@bytedance.com"
+    },
+    {
+        "name": "Kristine",
+        "email": "kristine.diwa@bytedance.com"
+    },
+    {
+        "name": "Eric",
+        "email": "eric.xue@bytedance.com"
+    },
+    {
+        "name": "Colin",
+        "email": "colin.qian@bytedance.com"
+    },
+    {
+        "name": "Alan",
+        "email": "alan.joun@bytedance.com"
+    },
+    {
+        "name": "Linna",
+        "email": "linna.dai@bytedance.com"
+    },
+    {
+        "name": "Spurthi",
+        "email": "spurthi.devalla@bytedance.com"
+    },
+    {
+        "name": "Yiwei",
+        "email": "yiwei.shan@bytedance.com"
+    },
+    {
+        "name": "Mia",
+        "email": "mia.l@bytedance.com"
+    },
+    {
+        "name": "Allen",
+        "email": "allen.chan@bytedance.com"
+    },
+    {
+        "name": "Samantha",
+        "email": "samantha.friedman@bytedance.com"
+    },
+    {
+        "name": "Ming",
+        "email": "ming.huang@bytedance.com"
+    },
+    {
+        "name": "Anitha",
+        "email": "anitha.sampath@bytedance.com"
+    },
+    {
+        "name": "Brian",
+        "email": "brian.flores@bytedance.com"
+    },
+    {
+        "name": "Cheryl",
+        "email": "cheryl.wang@bytedance.com"
+    },
+    {
+        "name": "Weiwei",
+        "email": "weiwei.chen@bytedance.com"
+    },
+    {
+        "name": "Daisy",
+        "email": "daisy.chu@bytedance.com"
+    },
+    {
+        "name": "Nico",
+        "email": "nico.c@bytedance.com"
+    },
+    {
+        "name": "Jose",
+        "email": "jose.guzman@bytedance.com"
+    },
+    {
+        "name": "Michelle",
+        "email": "michelle.huang@bytedance.com"
+    },
+    {
+        "name": "Katherine",
+        "email": "katherine.hou@bytedance.com"
+    },
+    {
+        "name": "Bill",
+        "email": "bill.ling@bytedance.com"
+    },
+    {
+        "name": "Ernesto",
+        "email": "ernesto.chen@bytedance.com"
+    },
+    {
+        "name": "Juliet",
+        "email": "juliet.li@bytedance.com"
+    },
+    {
+        "name": "Kaiyue",
+        "email": "kaiyue.luo@bytedance.com"
+    },
+    {
+        "name": "Christina",
+        "email": "christina.nguyen@bytedance.com"
+    },
+    {
+        "name": "Janice",
+        "email": "janice.chen@bytedance.com"
+    },
+    {
+        "name": "Fiona",
+        "email": "fiona.mao@bytedance.com"
+    },
+    {
+        "name": "Joy",
+        "email": "joy.miao@bytedance.com"
+    },
+    {
+        "name": "Alan",
+        "email": "alan.alcantara@bytedance.com"
+    },
+    {
+        "name": "Emma",
+        "email": "emma.huo@bytedance.com"
+    },
+    {
+        "name": "Brigitte",
+        "email": "brigitte.p@bytedance.com"
+    },
+    {
+        "name": "Suyun",
+        "email": "suyun.liu@bytedance.com"
+    },
+    {
+        "name": "Daniel",
+        "email": "daniel.demoray@bytedance.com"
+    },
+    {
+        "name": "William",
+        "email": "william.liu@bytedance.com"
+    },
+    {
+        "name": "Stephanie",
+        "email": "stephanie.cai@bytedance.com"
+    },
+    {
+        "name": "Jingchen",
+        "email": "jingchen.liang@bytedance.com"
+    },
+    {
+        "name": "Keying",
+        "email": "keying.luo@bytedance.com"
+    },
+    {
+        "name": "Beth",
+        "email": "beth.hou@bytedance.com"
+    },
+    {
+        "name": "Nial",
+        "email": "nial.zee@bytedance.com"
+    },
+    {
+        "name": "Cooper",
+        "email": "cooper.zhang@bytedance.com"
+    },
+    {
+        "name": "Lesley",
+        "email": "lesley.chen@bytedance.com"
+    },
+    {
+        "name": "Ying",
+        "email": "ying.jiang@bytedance.com"
+    },
+    {
+        "name": "Mairead",
+        "email": "mairead.holt@bytedance.com"
+    },
+    {
+        "name": "Juliet",
+        "email": "juliet.luo@bytedance.com"
+    },
+    {
+        "name": "Dong",
+        "email": "dong.wei@bytedance.com"
+    },
+    {
+        "name": "Evita",
+        "email": "evita.fok@bytedance.com"
+    },
+    {
+        "name": "Micaela",
+        "email": "micaela.h@bytedance.com"
+    },
+    {
+        "name": "June",
+        "email": "june.zhang@bytedance.com"
+    },
+    {
+        "name": "Kurt",
+        "email": "kurt.vanengel@bytedance.com"
+    },
+    {
+        "name": "Colum",
+        "email": "colum.mcgaley@bytedance.com"
+    },
+    {
+        "name": "Muhan",
+        "email": "muhan.chen@bytedance.com"
+    },
+    {
+        "name": "Daniel",
+        "email": "daniel.jackson@bytedance.com"
+    },
+    {
+        "name": "Alphonse",
+        "email": "alphonse.zhu@bytedance.com"
+    },
+    {
+        "name": "Lin",
+        "email": "lin.zhang@bytedance.com"
+    },
+    {
+        "name": "Yvonne",
+        "email": "yvonne.fang@bytedance.com"
+    },
+    {
+        "name": "Leo",
+        "email": "leo.labra@bytedance.com"
+    },
+    {
+        "name": "Stephanie",
+        "email": "stephanie.s@bytedance.com"
+    },
+    {
+        "name": "Lachlan",
+        "email": "lachlan.ma@bytedance.com"
+    },
+    {
+        "name": "Jason",
+        "email": "jason.ooi@bytedance.com"
+    },
+    {
+        "name": "Jordan",
+        "email": "jordan.furlong@bytedance.com"
+    },
+    {
+        "name": "James",
+        "email": "james.camp@bytedance.com"
+    },
+    {
+        "name": "Tiffany",
+        "email": "tiffany.t@bytedance.com"
+    },
+    {
+        "name": "Jasmine",
+        "email": "jasmine.zhong@bytedance.com"
+    },
+    {
+        "name": "Darian",
+        "email": "darian.sanchez@bytedance.com"
+    },
+    {
+        "name": "Su",
+        "email": "su.rincon@bytedance.com"
+    },
+    {
+        "name": "Sophia",
+        "email": "sophia.c@bytedance.com"
+    },
+    {
+        "name": "Chen",
+        "email": "chen.fangyu@bytedance.com"
+    },
+    {
+        "name": "Alice",
+        "email": "alice.le@bytedance.com"
+    },
+    {
+        "name": "Ryan",
+        "email": "ryan.d@bytedance.com"
+    },
+    {
+        "name": "Jadon",
+        "email": "jadon.park@bytedance.com"
+    },
+    {
+        "name": "Vincent",
+        "email": "vincent.wang@bytedance.com"
+    },
+    {
+        "name": "Alicia",
+        "email": "alicia.chen@bytedance.com"
+    },
+    {
+        "name": "Flora",
+        "email": "flora.liu@bytedance.com"
+    },
+    {
+        "name": "Coco",
+        "email": "coco.chen@bytedance.com"
+    },
+    {
+        "name": "Danny",
+        "email": "danny.peng@bytedance.com"
+    },
+    {
+        "name": "Helen",
+        "email": "helen.hu@bytedance.com"
+    },
+    {
+        "name": "Jacki",
+        "email": "jacki.park@bytedance.com"
+    }
+]
+
+}

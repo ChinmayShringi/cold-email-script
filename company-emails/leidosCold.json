@@ -1,0 +1,2152 @@
+{
+  "bodyTemplates": [
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m applying for a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Strong expertise in automation and cloud platforms.\n\t- Proven ability to optimize software systems and drive impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Extensive hands-on experience in real-time systems and automation.\n\t- Expertise in optimizing software solutions for impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience and currently pursuing my Master’s at NYU.\n\nI’m reaching out to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Expertise in automation and cloud platforms.\n\t- Extensive experience optimizing real-time systems for impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring:\n\n\t- Strong expertise in cloud platforms and automation.\n\t- Proven ability to drive impactful projects through software engineering.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m writing to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Extensive hands-on experience with real-time systems and cloud platforms.\n\t- Proven expertise in optimizing software systems to deliver impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Extensive experience in cloud platforms and automation.\n\t- Strong ability to deliver optimized real-world software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring:\n\n\t- Extensive experience in automation and real-time systems.\n\t- Proven ability to optimize software solutions and drive impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Hands-on experience in real-time systems and automation.\n\t- Strong expertise in delivering optimized software solutions for impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with 5+ years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Expertise in automation and cloud platforms.\n\t- Proven ability to optimize software systems for impactful real-world projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Extensive hands-on experience in real-time systems and automation.\n\t- Proven ability to drive impactful software engineering projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Strong expertise in automation and real-time systems.\n\t- Proven ability to deliver optimized software solutions for impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s at NYU.\n\nI’m writing to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Hands-on experience in real-time systems and cloud platforms.\n\t- Expertise in delivering optimized software solutions for impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Strong expertise in automation and real-time systems.\n\t- Proven ability to optimize software solutions for impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Expertise in cloud platforms and real-time systems.\n\t- Hands-on experience optimizing software solutions to deliver impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Extensive hands-on experience in automation and real-time systems.\n\t- Proven ability to optimize software systems to drive impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Strong expertise in cloud platforms and automation.\n\t- Hands-on experience optimizing real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with 5+ years of experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Extensive experience in software optimization and automation.\n\t- Proven ability to work on impactful projects using cloud platforms.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m reaching out to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. I offer:\n\n\t- Expertise in automation and cloud platforms.\n\t- Experience in delivering real-world tech solutions through software engineering.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Extensive experience in software engineering and cloud platforms.\n\t- Strong expertise in optimizing real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing a Master’s at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Expertise in automation and real-time systems.\n\t- Proven ability to optimize software solutions and drive impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Strong expertise in cloud technologies and automation.\n\t- Hands-on experience in optimizing software systems for real-world applications.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Extensive experience in cloud platforms and automation.\n\t- Strong ability to deliver optimized solutions in real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Strong expertise in automation and cloud technologies.\n\t- A passion for optimizing software systems to deliver impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. I offer:\n\n\t- Extensive experience in cloud platforms and real-time systems.\n\t- Hands-on expertise in optimizing software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Strong expertise in cloud platforms and automation.\n\t- Proven ability to optimize software systems and drive impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. I offer:\n\n\t- Expertise in automation and cloud platforms.\n\t- Extensive hands-on experience in optimizing real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with 5+ years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m interested in applying for the Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Strong background in cloud platforms and real-time systems.\n\t- Proven ability to drive impactful projects through software optimization.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing a Master’s at NYU.\n\nI’m writing to apply for a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Strong expertise in automation and cloud technologies.\n\t- Hands-on experience optimizing software solutions for impactful results.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring:\n\n\t- Expertise in cloud platforms and automation.\n\t- Extensive hands-on experience in optimizing software systems for real-world applications.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Proven expertise in cloud platforms and real-time systems.\n\t- Strong ability to drive impactful software engineering projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Expertise in software optimization and cloud platforms.\n\t- Hands-on experience in real-time and distributed systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m writing to express my interest in a Summer Internship at {{COMPANY_NAME}} for 2025. I bring:\n\n\t- Strong expertise in automation and cloud technologies.\n\t- Proven ability to optimize and deliver impactful software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Strong background in cloud platforms and real-time systems.\n\t- Hands-on experience in driving innovative tech solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing a Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Proven ability in software optimization and cloud platforms.\n\t- Experience in working with real-time systems and automation.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer Internship in 2025 at {{COMPANY_NAME}}. I offer:\n\n\t- Strong background in cloud technologies and automation.\n\t- A proven track record of delivering optimized software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I’m a full-stack developer with over 5 years of hands-on experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m seeking a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Strong expertise in automation and cloud technologies.\n\t- Passion for contributing to impactful projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Hands-on experience in cloud platforms and automation.\n\t- A passion for driving impactful solutions through software engineering.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m interested in applying for a Summer 2025 Internship at {{COMPANY_NAME}}. I offer:\n\n\t- Strong background in cloud platforms and real-time systems.\n\t- A track record of delivering optimized and high-impact solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing a Master’s at NYU.\n\nI’m seeking a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Hands-on expertise in software optimization and automation.\n\t- Passion for contributing to impactful projects in technology.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring:\n\n\t- Strong expertise in automation and cloud platforms.\n\t- Proven experience in optimizing software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Hands-on experience in cloud platforms and automation.\n\t- A passion for delivering real-world and impactful software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Strong expertise in software engineering and cloud technologies.\n\t- A track record of optimizing real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Expertise in automation and software engineering.\n\t- A strong foundation in real-time systems and cloud technologies.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to explore internship opportunities for Summer 2025 at {{COMPANY_NAME}}. I bring:\n\n\t- Strong background in automation and cloud platforms.\n\t- Proven ability to deliver optimized software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. I offer:\n\n\t- Strong expertise in cloud platforms and automation.\n\t- A passion for working on impactful software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Strong expertise in cloud technologies and automation.\n\t- A track record of delivering optimized software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I’m a full-stack developer with over 5 years of industry experience and currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Expertise in automation and real-time systems.\n\t- Proven ability to lead and execute high-impact projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of hands-on experience and currently pursuing my Master’s at NYU.\n\nI’m seeking a Summer Internship at {{COMPANY_NAME}} for 2025. I bring:\n\n\t- Extensive background in cloud technologies and software engineering.\n\t- Experience working with distributed systems and automation.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I can offer:\n\n\t- Hands-on expertise in cloud platforms and real-time systems.\n\t- Proven ability to contribute to high-impact projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited about the Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Expertise in automation and software optimization.\n\t- A passion for driving innovative tech solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m seeking a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Strong background in cloud technologies and automation.\n\t- Passion for working on impactful projects and delivering real-world solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Expertise in cloud platforms and automation.\n\t- Hands-on experience in optimizing software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m interested in applying for a Summer Internship in 2025 at {{COMPANY_NAME}}. I bring:\n\n\t- Expertise in automation and software optimization.\n\t- Passion for contributing to impactful projects in the technology space.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m excited to explore internship opportunities at {{COMPANY_NAME}} for Summer 2025. Here’s what I offer:\n\n\t- Strong experience in software optimization and cloud technologies.\n\t- Expertise in developing real-time solutions that can make a positive impact.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of hands-on experience. I’m currently pursuing my Master’s at NYU.\n\nI’m interested in applying for a Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Experience with cloud platforms, automation, and optimizing software systems.\n\t- A passion for delivering real-time and impactful solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing a Master’s at NYU.\n\nI’m writing to express my interest in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Strong expertise in automation and software engineering.\n\t- Proven ability to contribute to high-impact projects in cloud and real-time systems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m seeking a Summer Internship at {{COMPANY_NAME}} for 2025. Here’s what I bring:\n\n\t- Strong background in cloud platforms and software optimization.\n\t- A passion for working on cutting-edge technologies and impactful solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi, and I’m a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring:\n\n\t- Extensive expertise in automation and software optimization.\n\t- Experience in contributing to impactful projects and solving complex problems.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m reaching out to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Expertise in software optimization and automation.\n\t- A passion for contributing to high-impact projects in cloud technologies.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hi {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of industry experience, currently pursuing a Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Experience with cloud platforms, software engineering, and real-time systems.\n\t- Strong background in delivering optimized and impactful software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience, currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited to explore opportunities at {{COMPANY_NAME}} for a Summer Internship in 2025. I offer:\n\n\t- Strong expertise in automation and cloud technologies.\n\t- A passion for driving real-world solutions in software engineering.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience and currently pursuing my Master’s at NYU.\n\nI’m interested in a Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I bring to the table:\n\n\t- Strong expertise in cloud technologies and automation.\n\t- A track record of delivering optimized software solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I’m a full-stack developer with over 5 years of industry experience and currently pursuing my Master’s at NYU.\n\nI’m excited to apply for the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I offer:\n\n\t- Expertise in automation and real-time systems.\n\t- Proven ability to lead and execute high-impact projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of hands-on experience and currently pursuing my Master’s at NYU.\n\nI’m seeking a Summer Internship at {{COMPANY_NAME}} for 2025. I bring:\n\n\t- Extensive background in cloud technologies and software engineering.\n\t- Experience working with distributed systems and automation.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with over 5 years of experience, currently pursuing my Master’s at NYU.\n\nI’m writing to express my interest in the Summer 2025 Internship at {{COMPANY_NAME}}. Here’s what I can offer:\n\n\t- Hands-on expertise in cloud platforms and real-time systems.\n\t- Proven ability to contribute to high-impact projects.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    },
+    {
+      "body": "Hello {{RECIPIENT_NAME}},\n\nI’m Chinmay Shringi, a full-stack developer with 5+ years of experience and currently pursuing my Master’s in Computer Engineering at NYU.\n\nI’m excited about the Summer 2025 Internship at {{COMPANY_NAME}}. I bring:\n\n\t- Expertise in automation and software optimization.\n\t- A passion for driving innovative tech solutions.\n\n{{EMAIL_OUTRO}}\n\n{{EMAIL_GREET}}\n{{EMAIL_LINKS}}"
+    }
+  ],
+  "email_outro" : [
+    "Looking forward to discussing how my skills align with your team’s needs.",
+    "Excited to explore how I can contribute to the success of your projects.",
+    "Eager to bring my expertise to {{COMPANY_NAME}} and collaborate on impactful projects.",
+    "Would love to connect and discuss how I can contribute to your team.",
+    "Excited to talk further about how my skills can support your mission at {{COMPANY_NAME}}.",
+    "Looking forward to the opportunity to discuss this further.",
+    "Eager to contribute my skills to {{COMPANY_NAME}} and support your team’s objectives.",
+    "I’d be thrilled to connect and discuss how I can bring value to your team.",
+    "Looking forward to connecting and exploring how I can make an impact at {{COMPANY_NAME}}.",
+    "Excited to discuss how my background can align with your team’s goals.",
+    "Looking forward to the chance to contribute my skills to your team.",
+    "Hoping to discuss how I can contribute my experience and enthusiasm to {{COMPANY_NAME}}.",
+    "Excited to explore how my background and skills can contribute to your team.",
+    "Looking forward to exploring how I can support your team’s goals.",
+    "Eager to discuss how I can contribute to {{COMPANY_NAME}}'s upcoming projects.",
+    "Looking forward to a conversation about how I can help drive success for your team.",
+    "Excited to explore how my skill set could complement your team’s projects.",
+    "Would love to discuss how I can help {{COMPANY_NAME}} deliver impactful solutions.",
+    "I’m eager to contribute my expertise to your team and support your mission.",
+    "I’d love the opportunity to talk further about contributing to {{COMPANY_NAME}}.",
+    "Excited to explore how I can help drive results for your team.",
+    "Looking forward to discussing how my skills can benefit {{COMPANY_NAME}}.",
+    "Excited to connect and discuss how my background fits {{COMPANY_NAME}}'s needs.",
+    "Would love the chance to discuss how I can make an impact at {{COMPANY_NAME}}.",
+    "Looking forward to connecting and exploring how I can contribute to your team’s success.",
+    "I’m eager to discuss how I can support your team with my background and experience.",
+    "I’d love to connect and discuss how I can contribute to your projects.",
+    "Looking forward to discussing how my skills can drive impactful projects at {{COMPANY_NAME}}.",
+    "Excited to explore the opportunity to bring my skills to {{COMPANY_NAME}}.",
+    "Eager to discuss how my experience can benefit {{COMPANY_NAME}}.",
+    "Looking forward to learning more about how I can contribute to your team’s success.",
+    "Excited to discuss how my background in software engineering can support your team.",
+    "I’d be thrilled to talk about how I can help {{COMPANY_NAME}} achieve its goals.",
+    "Excited to explore how I can bring value to {{COMPANY_NAME}} with my skills.",
+    "Looking forward to discussing how I can add value to your team.",
+    "Eager to connect and discuss how my experience aligns with your projects.",
+    "Excited to connect and discuss how I can support your team with my skills.",
+    "Looking forward to connecting and learning more about the opportunities at {{COMPANY_NAME}}.",
+    "Would love to explore how I can contribute to your impactful work at {{COMPANY_NAME}}.",
+    "Excited to see how my expertise in cloud technologies can support your team.",
+    "Looking forward to connecting and exploring the potential of working with {{COMPANY_NAME}}.",
+    "Eager to learn more about how my skills can benefit your team.",
+    "I’d love the chance to discuss how I can make an impact at {{COMPANY_NAME}}.",
+    "Looking forward to exploring how I can drive impactful results at {{COMPANY_NAME}}.",
+    "Excited to connect and discuss how my background can align with your team’s objectives.",
+    "Looking forward to discussing how I can support {{COMPANY_NAME}}'s mission.",
+    "Eager to talk about how my experience can help {{COMPANY_NAME}} succeed.",
+    "Excited to discuss the opportunity to collaborate with your team at {{COMPANY_NAME}}.",
+    "Looking forward to learning how I can bring value to your team’s upcoming projects.",
+    "I’d love the opportunity to connect and discuss how I can support your team’s goals."
+  ],  
+  "email_greet" :[
+    "Best regards,",
+    "Sincerely,",
+    "Kind regards,",
+    "Warm regards,",
+    "With gratitude,",
+    "Thank you,",
+    "Best,",
+    "Looking forward,",
+    "Respectfully,",
+    "Gratefully,",
+    "Yours sincerely,",
+    "Thanks in advance,",
+    "Warmly,",
+    "With best wishes,",
+    "With appreciation,",
+    "Looking forward to your response,",
+    "Have a great day,",
+    "Many thanks,",
+    "Stay well,",
+    "Wishing you the best,",
+    "Hope to hear from you soon,",
+    "With thanks,",
+    "Thank you for your time,",
+    "Wishing you all the best,",
+    "With kind regards,",
+    "Much appreciated,",
+    "With respect,",
+    "Looking forward to connecting,",
+    "Cordially,",
+    "Best wishes,",
+    "With warm regards,",
+    "Looking forward to working together,",
+    "Have a wonderful day,",
+    "Looking forward to speaking with you,",
+    "With my best,",
+    "Best regards and thank you,",
+    "Have a great week ahead,",
+    "With heartfelt thanks,",
+    "With respect and appreciation,",
+    "In appreciation,",
+    "Anticipating your reply,"
+  ],  
+  "email_links": "Chinmay Shringi\n+1(201) 284-0211\nLinkedIn: https://www.linkedin.com/in/chinmay-shringi-105736173/\nGitHub: https://github.com/ChinmayShringi\nMy Website: https://chinmayshringi.web.app/",
+  "subject": [
+    "Strong Candidate with Cutting-Edge SDE Skills",
+    "Proven SDE Talent Ready to Deliver Impact",
+    "Innovative SDE with a Passion for Problem-Solving",
+    "Dynamic Full-Stack Developer Ready for New Challenges",
+    "SDE Professional with Expertise in Modern Technologies",
+    "Experienced SDE Ready to Drive Tech Innovation",
+    "Your Next SDE Asset: Skilled in Full-Stack Development",
+    "SDE with a Track Record of Delivering Scalable Solutions",
+    "Seasoned Software Engineer with Cloud Expertise",
+    "Expert Full-Stack Developer Looking to Make an Impact",
+    "Passionate SDE Ready to Tackle Complex Projects",
+    "Skilled SDE Available for Innovative Projects",
+    "SDE Proficient in Cloud & Application Development",
+    "Strong SDE Candidate with 5+ Years of Experience",
+    "Cutting-Edge Developer Eager to Join Your Team",
+    "Problem-Solving SDE with Expertise in Full-Stack Tech",
+    "Experienced SDE Seeking to Deliver High-Impact Solutions",
+    "SDE with Extensive Cloud Development Experience",
+    "Your Next SDE with Expertise in Modern Tech Stacks",
+    "Passionate Software Engineer Ready to Innovate",
+    "Driven SDE Ready to Elevate Your Development Team",
+    "Proven Full-Stack Developer with a Focus on Innovation",
+    "Highly Skilled SDE with Advanced Cloud Expertise",
+    "Innovative Developer Looking to Bring Value to Your Team",
+    "Expert Full-Stack Developer Seeking New Opportunities",
+    "Tech-Savvy SDE with Expertise in Modern Architectures",
+    "Motivated SDE Ready for Fast-Paced Development Challenges",
+    "Skilled Developer Ready to Make a Lasting Impact",
+    "Results-Driven Software Engineer Seeking New Horizons",
+    "Experienced SDE with a Passion for Full-Stack Dev",
+    "Your Next SDE Expert in Cloud & Scalable Solutions",
+    "Tech Innovator Ready to Join Your Engineering Team",
+    "Proactive SDE with Expertise in Full-Stack Development",
+    "Cutting-Edge SDE Ready to Tackle Challenging Projects",
+    "Driven Full-Stack Developer Seeking Impactful Roles",
+    "SDE with Extensive Cloud & Application Development Skills",
+    "Your Next Developer: Skilled in Cutting-Edge Technologies",
+    "Innovative SDE Ready to Contribute to Your Success",
+    "Proven Full-Stack SDE with a Passion for Innovation",
+    "Results-Oriented SDE Looking for Challenging Projects",
+    "Expert Full-Stack Developer Ready for New Opportunities",
+    "Tech-Savvy Software Engineer with a Focus on Scalability",
+    "SDE with Expertise in Cloud and Scalable Solutions",
+    "High-Impact SDE Ready to Join Your Development Team",
+    "Innovative SDE with Advanced Full-Stack Experience",
+    "Motivated Developer Seeking Fast-Paced Tech Projects",
+    "Skilled Full-Stack SDE with a Passion for Problem-Solving",
+    "Experienced Software Engineer with Cutting-Edge Skills",
+    "Dynamic SDE Looking to Tackle New Engineering Challenges",
+    "Expert Full-Stack SDE Ready to Make an Impact",
+    "Your Next SDE with Proven Full-Stack Expertise"
+  ],
+  "company_name": "Leidos",
+  "contact1s": [
+    {
+      "name": "Chinmay",
+      "email": "chinmayusa4@gmail.com"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Todd",
+      "email": "todd.hall@leidos.com"
+    },
+    {
+      "name": "Jennifer",
+      "email": "jennifer.abreut@leidos.com"
+    },
+    {
+      "name": "Carolyn",
+      "email": "carolyn.kinard@leidos.com"
+    },
+    {
+      "name": "Dennis",
+      "email": "dennis.wagoner@leidos.com"
+    },
+    {
+      "name": "Norman",
+      "email": "norman.newman@leidos.com"
+    },
+    {
+      "name": "Isiah",
+      "email": "isiah.padilla@leidos.com"
+    },
+    {
+      "name": "Abbi",
+      "email": "abbi.menz@leidos.com"
+    },
+    {
+      "name": "Dylan",
+      "email": "dylan.berger@leidos.com"
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.miley@leidos.com"
+    },
+    {
+      "name": "Sydney",
+      "email": "sydney.donovan@leidos.com"
+    },
+    {
+      "name": "Therese",
+      "email": "therese.dotson@leidos.com"
+    },
+    {
+      "name": "Becky",
+      "email": "becky.cox@leidos.com"
+    },
+    {
+      "name": "Helen",
+      "email": "helen.gaut@leidos.com"
+    },
+    {
+      "name": "Mary-Anne",
+      "email": "mary-anne.mendoza@leidos.com"
+    },
+    {
+      "name": "Stacy",
+      "email": "stacy.forster@leidos.com"
+    },
+    {
+      "name": "Stephanie",
+      "email": "stephanie.henry@leidos.com"
+    },
+    {
+      "name": "Nicole",
+      "email": "nicole.barbee@leidos.com"
+    },
+    {
+      "name": "Rich",
+      "email": "rich.linn@leidos.com"
+    },
+    {
+      "name": "Jacqueline",
+      "email": "jacqueline.shammas@leidos.com"
+    },
+    {
+      "name": "Joseph",
+      "email": "joseph.house@leidos.com"
+    },
+    {
+      "name": "Stephanie",
+      "email": "stephanie.lovett@leidos.com"
+    },
+    {
+      "name": "Steven",
+      "email": "steven.pace@leidos.com"
+    },
+    {
+      "name": "Lizzy",
+      "email": "lizzy.bell@leidos.com"
+    },
+    {
+      "name": "Amanda",
+      "email": "amanda.botkin@leidos.com"
+    },
+    {
+      "name": "David",
+      "email": "david.flaim@leidos.com"
+    },
+    {
+      "name": "Kim",
+      "email": "kim.wyatt@leidos.com"
+    },
+    {
+      "name": "Amanda",
+      "email": "amanda.sizemore@leidos.com"
+    },
+    {
+      "name": "Julia",
+      "email": "julia.matus-delatorre@leidos.com"
+    },
+    {
+      "name": "Heather",
+      "email": "heather.nguyen@leidos.com"
+    },
+    {
+      "name": "Christopher",
+      "email": "christopher.gamez@leidos.com"
+    },
+    {
+      "name": "Michael",
+      "email": "michael.johnson@leidos.com"
+    },
+    {
+      "name": "Gene",
+      "email": "gene.sharp@leidos.com"
+    },
+    {
+      "name": "Panos",
+      "email": "panos.dimitriades@leidos.com"
+    },
+    {
+      "name": "Shelly",
+      "email": "shelly.mason@leidos.com"
+    },
+    {
+      "name": "Kerry",
+      "email": "kerry.driver-strollo@leidos.com"
+    },
+    {
+      "name": "Erica",
+      "email": "erica.rasmussen@leidos.com"
+    },
+    {
+      "name": "Anne",
+      "email": "anne.sabol@leidos.com"
+    },
+    {
+      "name": "Mary",
+      "email": "mary.moxley@leidos.com"
+    },
+    {
+      "name": "Joseph",
+      "email": "joseph.townsend@leidos.com"
+    },
+    {
+      "name": "Jennifer",
+      "email": "jennifer.m@leidos.com"
+    },
+    {
+      "name": "Meg",
+      "email": "meg.cuthbertson@leidos.com"
+    },
+    {
+      "name": "Amanda",
+      "email": "amanda.corbin@leidos.com"
+    },
+    {
+      "name": "Scott",
+      "email": "scott.beach@leidos.com"
+    },
+    {
+      "name": "Kevin",
+      "email": "kevin.shirkey@leidos.com"
+    },
+    {
+      "name": "Jeffrey",
+      "email": "jeffrey.bees@leidos.com"
+    },
+    {
+      "name": "Holly",
+      "email": "holly.lewis@leidos.com"
+    },
+    {
+      "name": "Bethany",
+      "email": "bethany.ross@leidos.com"
+    },
+    {
+      "name": "Alicia",
+      "email": "alicia.angelo@leidos.com"
+    },
+    {
+      "name": "John",
+      "email": "john.dashiell@leidos.com"
+    },
+    {
+      "name": "Lisa",
+      "email": "lisa.morton@leidos.com"
+    },
+    {
+      "name": "Stephen",
+      "email": "stephen.thrower@leidos.com"
+    },
+    {
+      "name": "Lauren",
+      "email": "lauren.hartung@leidos.com"
+    },
+    {
+      "name": "Kelly",
+      "email": "kelly.foster@leidos.com"
+    },
+    {
+      "name": "Nicole",
+      "email": "nicole.rodriguez@leidos.com"
+    },
+    {
+      "name": "Cindy",
+      "email": "cindy.weaver@leidos.com"
+    },
+    {
+      "name": "Kimberley",
+      "email": "kimberley.hanna@leidos.com"
+    },
+    {
+      "name": "Liz",
+      "email": "liz.hoffman@leidos.com"
+    },
+    {
+      "name": "Joanne",
+      "email": "joanne.espinoza@leidos.com"
+    },
+    {
+      "name": "Leanna",
+      "email": "leanna.kantorovich@leidos.com"
+    },
+    {
+      "name": "Paul",
+      "email": "paul.antognoni@leidos.com"
+    },
+    {
+      "name": "Jacqueline",
+      "email": "jacqueline.patton@leidos.com"
+    },
+    {
+      "name": "Jim",
+      "email": "jim.mathieu@leidos.com"
+    },
+    {
+      "name": "Jennifer",
+      "email": "jennifer.kildee@leidos.com"
+    },
+    {
+      "name": "Rich",
+      "email": "rich.bowen@leidos.com"
+    },
+    {
+      "name": "Ingrid",
+      "email": "ingrid.teasdale@leidos.com"
+    },
+    {
+      "name": "Nelmarie",
+      "email": "nelmarie.miranda@leidos.com"
+    },
+    {
+      "name": "Sheryl",
+      "email": "sheryl.hollarn@leidos.com"
+    },
+    {
+      "name": "Lisa",
+      "email": "lisa.riley@leidos.com"
+    },
+    {
+      "name": "Tiffany",
+      "email": "tiffany.carbone@leidos.com"
+    },
+    {
+      "name": "Coreen",
+      "email": "coreen.wooten@leidos.com"
+    },
+    {
+      "name": "Melissa",
+      "email": "melissa.dabkowski@leidos.com"
+    },
+    {
+      "name": "Stefani",
+      "email": "stefani.hendershot@leidos.com"
+    },
+    {
+      "name": "Hazel",
+      "email": "hazel.lee@leidos.com"
+    },
+    {
+      "name": "David",
+      "email": "david.goldfield@leidos.com"
+    },
+    {
+      "name": "Krissy",
+      "email": "krissy.caracciolo@leidos.com"
+    },
+    {
+      "name": "Sonya",
+      "email": "sonya.miller@leidos.com"
+    },
+    {
+      "name": "Anne-Marie",
+      "email": "anne-marie.m@leidos.com"
+    },
+    {
+      "name": "Dena",
+      "email": "dena.p@leidos.com"
+    },
+    {
+      "name": "Cecilia",
+      "email": "cecilia.saunders@leidos.com"
+    },
+    {
+      "name": "Leslie",
+      "email": "leslie.reese@leidos.com"
+    },
+    {
+      "name": "Stephanie",
+      "email": "stephanie.dasilva@leidos.com"
+    },
+    {
+      "name": "Brian",
+      "email": "brian.morsheimer@leidos.com"
+    },
+    {
+      "name": "Cecilia",
+      "email": "cecilia.king@leidos.com"
+    },
+    {
+      "name": "Sherrod",
+      "email": "sherrod.parker@leidos.com"
+    },
+    {
+      "name": "Abbi",
+      "email": "abbi.menz@leidos.com"
+    },
+    {
+      "name": "Dylan",
+      "email": "dylan.berger@leidos.com"
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.miley@leidos.com"
+    },
+    {
+      "name": "Sydney",
+      "email": "sydney.donovan@leidos.com"
+    },
+    {
+      "name": "Therese",
+      "email": "therese.dotson@leidos.com"
+    },
+    {
+      "name": "Becky",
+      "email": "becky.cox@leidos.com"
+    },
+    {
+      "name": "Helen",
+      "email": "helen.gaut@leidos.com"
+    },
+    {
+      "name": "Mary-Anne",
+      "email": "mary-anne.mendoza@leidos.com"
+    },
+    {
+      "name": "Stacy",
+      "email": "stacy.forster@leidos.com"
+    },
+    {
+      "name": "Stephanie",
+      "email": "stephanie.henry@leidos.com"
+    },
+    {
+      "name": "Nicole",
+      "email": "nicole.barbee@leidos.com"
+    },
+    {
+      "name": "Rich",
+      "email": "rich.linn@leidos.com"
+    },
+    {
+      "name": "Jacqueline",
+      "email": "jacqueline.shammas@leidos.com"
+    },
+    {
+      "name": "Joseph",
+      "email": "joseph.house@leidos.com"
+    },
+    {
+      "name": "Stephanie",
+      "email": "stephanie.lovett@leidos.com"
+    },
+    {
+      "name": "Steven",
+      "email": "steven.pace@leidos.com"
+    },
+    {
+      "name": "Lizzy",
+      "email": "lizzy.bell@leidos.com"
+    },
+    {
+      "name": "Amanda",
+      "email": "amanda.botkin@leidos.com"
+    },
+    {
+      "name": "David",
+      "email": "david.flaim@leidos.com"
+    },
+    {
+      "name": "Kim",
+      "email": "kim.wyatt@leidos.com"
+    },
+    {
+      "name": "Amanda",
+      "email": "amanda.sizemore@leidos.com"
+    },
+    {
+      "name": "Julia",
+      "email": "julia.matus-delatorre@leidos.com"
+    },
+    {
+      "name": "Heather",
+      "email": "heather.nguyen@leidos.com"
+    },
+    {
+      "name": "Christopher",
+      "email": "christopher.gamez@leidos.com"
+    },
+    {
+      "name": "Michael",
+      "email": "michael.johnson@leidos.com"
+    },
+    {
+      "name": "Gene",
+      "email": "gene.sharp@leidos.com"
+    },
+    {
+      "name": "Panos",
+      "email": "panos.dimitriades@leidos.com"
+    },
+    {
+      "name": "Shelly",
+      "email": "shelly.mason@leidos.com"
+    },
+    {
+      "name": "Kerry",
+      "email": "kerry.driver-strollo@leidos.com"
+    },
+    {
+      "name": "Erica",
+      "email": "erica.rasmussen@leidos.com"
+    },
+    {
+      "name": "Anne",
+      "email": "anne.sabol@leidos.com"
+    },
+    {
+      "name": "Mary",
+      "email": "mary.moxley@leidos.com"
+    },
+    {
+      "name": "Joseph",
+      "email": "joseph.townsend@leidos.com"
+    },
+    {
+      "name": "Jennifer",
+      "email": "jennifer.m@leidos.com"
+    },
+    {
+      "name": "Meg",
+      "email": "meg.cuthbertson@leidos.com"
+    },
+    {
+      "name": "Amanda",
+      "email": "amanda.corbin@leidos.com"
+    },
+    {
+      "name": "Scott",
+      "email": "scott.beach@leidos.com"
+    },
+    {
+      "name": "Kevin",
+      "email": "kevin.shirkey@leidos.com"
+    },
+    {
+      "name": "Jeffrey",
+      "email": "jeffrey.bees@leidos.com"
+    },
+    {
+      "name": "Holly",
+      "email": "holly.lewis@leidos.com"
+    },
+    {
+      "name": "Bethany",
+      "email": "bethany.ross@leidos.com"
+    },
+    {
+      "name": "Alicia",
+      "email": "alicia.angelo@leidos.com"
+    },
+    {
+      "name": "John",
+      "email": "john.dashiell@leidos.com"
+    },
+    {
+      "name": "Lisa",
+      "email": "lisa.morton@leidos.com"
+    },
+    {
+      "name": "Stephen",
+      "email": "stephen.thrower@leidos.com"
+    },
+    {
+      "name": "Lauren",
+      "email": "lauren.hartung@leidos.com"
+    },
+    {
+      "name": "Kelly",
+      "email": "kelly.foster@leidos.com"
+    },
+    {
+      "name": "Nicole",
+      "email": "nicole.rodriguez@leidos.com"
+    },
+    {
+      "name": "Cindy",
+      "email": "cindy.weaver@leidos.com"
+    },
+    {
+      "name": "Kimberley",
+      "email": "kimberley.hanna@leidos.com"
+    },
+    {
+      "name": "Liz",
+      "email": "liz.hoffman@leidos.com"
+    },
+    {
+      "name": "Joanne",
+      "email": "joanne.espinoza@leidos.com"
+    },
+    {
+      "name": "Leanna",
+      "email": "leanna.kantorovich@leidos.com"
+    },
+    {
+      "name": "Paul",
+      "email": "paul.antognoni@leidos.com"
+    },
+    {
+      "name": "Jacqueline",
+      "email": "jacqueline.patton@leidos.com"
+    },
+    {
+      "name": "Jim",
+      "email": "jim.mathieu@leidos.com"
+    },
+    {
+      "name": "Jennifer",
+      "email": "jennifer.kildee@leidos.com"
+    },
+    {
+      "name": "Rich",
+      "email": "rich.bowen@leidos.com"
+    },
+    {
+      "name": "Ingrid",
+      "email": "ingrid.teasdale@leidos.com"
+    },
+    {
+      "name": "Nelmarie",
+      "email": "nelmarie.miranda@leidos.com"
+    },
+    {
+      "name": "Sheryl",
+      "email": "sheryl.hollarn@leidos.com"
+    },
+    {
+      "name": "Lisa",
+      "email": "lisa.riley@leidos.com"
+    },
+    {
+      "name": "Tiffany",
+      "email": "tiffany.carbone@leidos.com"
+    },
+    {
+      "name": "Coreen",
+      "email": "coreen.wooten@leidos.com"
+    },
+    {
+      "name": "Melissa",
+      "email": "melissa.dabkowski@leidos.com"
+    },
+    {
+      "name": "Stefani",
+      "email": "stefani.hendershot@leidos.com"
+    },
+    {
+      "name": "Hazel",
+      "email": "hazel.lee@leidos.com"
+    },
+    {
+      "name": "David",
+      "email": "david.goldfield@leidos.com"
+    },
+    {
+      "name": "Krissy",
+      "email": "krissy.caracciolo@leidos.com"
+    },
+    {
+      "name": "Sonya",
+      "email": "sonya.miller@leidos.com"
+    },
+    {
+      "name": "Anne-Marie",
+      "email": "anne-marie.m@leidos.com"
+    },
+    {
+      "name": "Dena",
+      "email": "dena.p@leidos.com"
+    },
+    {
+      "name": "Cecilia",
+      "email": "cecilia.saunders@leidos.com"
+    },
+    {
+      "name": "Leslie",
+      "email": "leslie.reese@leidos.com"
+    },
+    {
+      "name": "Stephanie",
+      "email": "stephanie.dasilva@leidos.com"
+    },
+    {
+      "name": "Brian",
+      "email": "brian.morsheimer@leidos.com"
+    },
+    {
+      "name": "Cecilia",
+      "email": "cecilia.king@leidos.com"
+    },
+    {
+      "name": "Sherrod",
+      "email": "sherrod.parker@leidos.com"
+    },
+    {
+      "name": "Joseph",
+      "email": "joseph.sharp@leidos.com"
+    },
+    {
+      "name": "Kerry",
+      "email": "kerry.strollo@leidos.com"
+    },
+    {
+      "name": "Miriam",
+      "email": "miriam.jensen@leidos.com"
+    },
+    {
+      "name": "Francis",
+      "email": "francis.mikhael@leidos.com"
+    },
+    {
+      "name": "Donna",
+      "email": "donna.beverly@leidos.com"
+    },
+    {
+      "name": "T. Van",
+      "email": "van.nguyen@leidos.com"
+    },
+    {
+      "name": "Elizabeth",
+      "email": "elizabeth.fitzpatrick@leidos.com"
+    },
+    {
+      "name": "Roger",
+      "email": "roger.blackwell@leidos.com"
+    },
+    {
+      "name": "Erin",
+      "email": "erin.white@leidos.com"
+    },
+    {
+      "name": "Richard",
+      "email": "richard.morris@leidos.com"
+    },
+    {
+      "name": "Daniel",
+      "email": "daniel.frederic@leidos.com"
+    },
+    {
+      "name": "Bryce",
+      "email": "bryce.scott@leidos.com"
+    },
+    {
+      "name": "David",
+      "email": "david.ross@leidos.com"
+    },
+    {
+      "name": "Katelyn",
+      "email": "katelyn.anderson@leidos.com"
+    },
+    {
+      "name": "Mark",
+      "email": "mark.jones@leidos.com"
+    },
+    {
+      "name": "Scott",
+      "email": "scott.wilson@leidos.com"
+    },
+    {
+      "name": "Alex",
+      "email": "alex.turner@leidos.com"
+    },
+    {
+      "name": "Kim",
+      "email": "kim.roberts@leidos.com"
+    },
+    {
+      "name": "Nancy",
+      "email": "nancy.harris@leidos.com"
+    },
+    {
+      "name": "Michael",
+      "email": "michael.lee@leidos.com"
+    },
+    {
+      "name": "Danielle",
+      "email": "danielle.martinez@leidos.com"
+    },
+    {
+      "name": "Brianna",
+      "email": "brianna.morris@leidos.com"
+    },
+    {
+      "name": "Victoria",
+      "email": "victoria.martin@leidos.com"
+    },
+    {
+      "name": "Ethan",
+      "email": "ethan.smith@leidos.com"
+    },
+    {
+      "name": "Jessica",
+      "email": "jessica.brown@leidos.com"
+    },
+    {
+      "name": "Rachel",
+      "email": "rachel.anderson@leidos.com"
+    },
+    {
+      "name": "Sophia",
+      "email": "sophia.jackson@leidos.com"
+    },
+    {
+      "name": "Matthew",
+      "email": "matthew.garcia@leidos.com"
+    },
+    {
+      "name": "Emily",
+      "email": "emily.martinez@leidos.com"
+    },
+    {
+      "name": "Olivia",
+      "email": "olivia.martinez@leidos.com"
+    },
+    {
+      "name": "Hannah",
+      "email": "hannah.martinez@leidos.com"
+    },
+    {
+      "name": "Samantha",
+      "email": "samantha.anderson@leidos.com"
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.jackson@leidos.com"
+    },
+    {
+      "name": "Madison",
+      "email": "madison.white@leidos.com"
+    },
+    {
+      "name": "William",
+      "email": "william.jones@leidos.com"
+    },
+    {
+      "name": "Eleanor",
+      "email": "eleanor.martin@leidos.com"
+    },
+    {
+      "name": "Benjamin",
+      "email": "benjamin.brown@leidos.com"
+    },
+    {
+      "name": "Isabella",
+      "email": "isabella.wilson@leidos.com"
+    },
+    {
+      "name": "Lucas",
+      "email": "lucas.garcia@leidos.com"
+    },
+    {
+      "name": "Grace",
+      "email": "grace.morris@leidos.com"
+    },
+    {
+      "name": "Mia",
+      "email": "mia.roberts@leidos.com"
+    },
+    {
+      "name": "James",
+      "email": "james.thompson@leidos.com"
+    },
+    {
+      "name": "Scarlett",
+      "email": "scarlett.wright@leidos.com"
+    },
+    {
+      "name": "David",
+      "email": "david.evans@leidos.com"
+    },
+    {
+      "name": "Ella",
+      "email": "ella.martinez@leidos.com"
+    },
+    {
+      "name": "Oliver",
+      "email": "oliver.anderson@leidos.com"
+    },
+    {
+      "name": "Liam",
+      "email": "liam.taylor@leidos.com"
+    },
+    {
+      "name": "Amelia",
+      "email": "amelia.jones@leidos.com"
+    },
+    {
+      "name": "Harper",
+      "email": "harper.jackson@leidos.com"
+    },
+    {
+      "name": "Jack",
+      "email": "jack.garcia@leidos.com"
+    },
+    {
+      "name": "Avery",
+      "email": "avery.brown@leidos.com"
+    },
+    {
+      "name": "Henry",
+      "email": "henry.evans@leidos.com"
+    },
+    {
+      "name": "Evelyn",
+      "email": "evelyn.wilson@leidos.com"
+    },
+    {
+      "name": "Victoria",
+      "email": "victoria.clark@leidos.com"
+    },
+    {
+      "name": "Thomas",
+      "email": "thomas.lee@leidos.com"
+    },
+    {
+      "name": "Logan",
+      "email": "logan.jones@leidos.com"
+    },
+    {
+      "name": "Alexander",
+      "email": "alexander.scott@leidos.com"
+    },
+    {
+      "name": "Sofia",
+      "email": "sofia.green@leidos.com"
+    },
+    {
+      "name": "Aiden",
+      "email": "aiden.brown@leidos.com"
+    },
+    {
+      "name": "Aria",
+      "email": "aria.davis@leidos.com"
+    },
+    {
+      "name": "Owen",
+      "email": "owen.gonzalez@leidos.com"
+    },
+    {
+      "name": "Jackson",
+      "email": "jackson.hernandez@leidos.com"
+    },
+    {
+      "name": "Zoe",
+      "email": "zoe.anderson@leidos.com"
+    },
+    {
+      "name": "Gabriel",
+      "email": "gabriel.wright@leidos.com"
+    },
+    {
+      "name": "Chloe",
+      "email": "chloe.morris@leidos.com"
+    },
+    {
+      "name": "Sebastian",
+      "email": "sebastian.clark@leidos.com"
+    },
+    {
+      "name": "Emily",
+      "email": "emily.garcia@leidos.com"
+    },
+    {
+      "name": "Levi",
+      "email": "levi.johnson@leidos.com"
+    },
+    {
+      "name": "Layla",
+      "email": "layla.evans@leidos.com"
+    },
+    {
+      "name": "Mateo",
+      "email": "mateo.scott@leidos.com"
+    },
+    {
+      "name": "Lillian",
+      "email": "lillian.thompson@leidos.com"
+    },
+    {
+      "name": "Wyatt",
+      "email": "wyatt.anderson@leidos.com"
+    },
+    {
+      "name": "Nora",
+      "email": "nora.green@leidos.com"
+    },
+    {
+      "name": "Dylan",
+      "email": "dylan.roberts@leidos.com"
+    },
+    {
+      "name": "Hazel",
+      "email": "hazel.taylor@leidos.com"
+    },
+    {
+      "name": "Eli",
+      "email": "eli.jones@leidos.com"
+    },
+    {
+      "name": "Grace",
+      "email": "grace.martinez@leidos.com"
+    },
+    {
+      "name": "Elias",
+      "email": "elias.morris@leidos.com"
+    },
+    {
+      "name": "Isla",
+      "email": "isla.lee@leidos.com"
+    },
+    {
+      "name": "Landon",
+      "email": "landon.jones@leidos.com"
+    },
+    {
+      "name": "Luca",
+      "email": "luca.anderson@leidos.com"
+    },
+    {
+      "name": "Mason",
+      "email": "mason.jackson@leidos.com"
+    },
+    {
+      "name": "Aubrey",
+      "email": "aubrey.wright@leidos.com"
+    },
+    {
+      "name": "Lincoln",
+      "email": "lincoln.jones@leidos.com"
+    },
+    {
+      "name": "Ariana",
+      "email": "ariana.garcia@leidos.com"
+    },
+    {
+      "name": "Grayson",
+      "email": "grayson.evans@leidos.com"
+    },
+    {
+      "name": "Lucy",
+      "email": "lucy.morris@leidos.com"
+    },
+    {
+      "name": "Everett",
+      "email": "everett.roberts@leidos.com"
+    },
+    {
+      "name": "Aurora",
+      "email": "aurora.davis@leidos.com"
+    },
+    {
+      "name": "Ezekiel",
+      "email": "ezekiel.green@leidos.com"
+    },
+    {
+      "name": "Mila",
+      "email": "mila.johnson@leidos.com"
+    },
+    {
+      "name": "Christopher",
+      "email": "christopher.clark@leidos.com"
+    },
+    {
+      "name": "Madeline",
+      "email": "madeline.evans@leidos.com"
+    },
+    {
+      "name": "Isaac",
+      "email": "isaac.brown@leidos.com"
+    },
+    {
+      "name": "Savannah",
+      "email": "savannah.anderson@leidos.com"
+    },
+    {
+      "name": "Nathaniel",
+      "email": "nathaniel.jackson@leidos.com"
+    },
+    {
+      "name": "Stella",
+      "email": "stella.martin@leidos.com"
+    },
+    {
+      "name": "Julian",
+      "email": "julian.thompson@leidos.com"
+    },
+    {
+      "name": "Nova",
+      "email": "nova.white@leidos.com"
+    },
+    {
+      "name": "Brayden",
+      "email": "brayden.clark@leidos.com"
+    },
+    {
+      "name": "Eliana",
+      "email": "eliana.jones@leidos.com"
+    },
+    {
+      "name": "Hunter",
+      "email": "hunter.johnson@leidos.com"
+    },
+    {
+      "name": "Alyssa",
+      "email": "alyssa.martinez@leidos.com"
+    },
+    {
+      "name": "Easton",
+      "email": "easton.jones@leidos.com"
+    },
+    {
+      "name": "Leah",
+      "email": "leah.roberts@leidos.com"
+    },
+    {
+      "name": "Carson",
+      "email": "carson.jackson@leidos.com"
+    },
+    {
+      "name": "Penelope",
+      "email": "penelope.evans@leidos.com"
+    },
+    {
+      "name": "Christian",
+      "email": "christian.anderson@leidos.com"
+    },
+    {
+      "name": "Genesis",
+      "email": "genesis.taylor@leidos.com"
+    },
+    {
+      "name": "Jaxon",
+      "email": "jaxon.jones@leidos.com"
+    },
+    {
+      "name": "Bella",
+      "email": "bella.brown@leidos.com"
+    },
+    {
+      "name": "Parker",
+      "email": "parker.gonzalez@leidos.com"
+    },
+    {
+      "name": "Ariana",
+      "email": "ariana.morris@leidos.com"
+    },
+    {
+      "name": "Camila",
+      "email": "camila.evans@leidos.com"
+    },
+    {
+      "name": "Jason",
+      "email": "jason.anderson@leidos.com"
+    },
+    {
+      "name": "Elijah",
+      "email": "elijah.scott@leidos.com"
+    },
+    {
+      "name": "Sadie",
+      "email": "sadie.green@leidos.com"
+    },
+    {
+      "name": "Jordan",
+      "email": "jordan.morris@leidos.com"
+    },
+    {
+      "name": "Kinsley",
+      "email": "kinsley.jackson@leidos.com"
+    },
+    {
+      "name": "Declan",
+      "email": "declan.evans@leidos.com"
+    },
+    {
+      "name": "Maya",
+      "email": "maya.garcia@leidos.com"
+    },
+    {
+      "name": "Jacob",
+      "email": "jacob.roberts@leidos.com"
+    },
+    {
+      "name": "Emily",
+      "email": "emily.anderson@leidos.com"
+    },
+    {
+      "name": "Charles",
+      "email": "charles.johnson@leidos.com"
+    },
+    {
+      "name": "Kayden",
+      "email": "kayden.jackson@leidos.com"
+    },
+    {
+      "name": "Ellie",
+      "email": "ellie.martin@leidos.com"
+    },
+    {
+      "name": "Eleanor",
+      "email": "eleanor.scott@leidos.com"
+    },
+    {
+      "name": "Connor",
+      "email": "connor.brown@leidos.com"
+    },
+    {
+      "name": "Sophia",
+      "email": "sophia.evans@leidos.com"
+    },
+    {
+      "name": "Ruby",
+      "email": "ruby.clark@leidos.com"
+    },
+    {
+      "name": "Miles",
+      "email": "miles.anderson@leidos.com"
+    },
+    {
+      "name": "Aurora",
+      "email": "aurora.jones@leidos.com"
+    },
+    {
+      "name": "Ezra",
+      "email": "ezra.garcia@leidos.com"
+    },
+    {
+      "name": "Nolan",
+      "email": "nolan.brown@leidos.com"
+    },
+    {
+      "name": "Peyton",
+      "email": "peyton.jones@leidos.com"
+    },
+    {
+      "name": "Audrey",
+      "email": "audrey.morris@leidos.com"
+    },
+    {
+      "name": "Oliver",
+      "email": "oliver.evans@leidos.com"
+    },
+    {
+      "name": "Savannah",
+      "email": "savannah.anderson@leidos.com"
+    },
+    {
+      "name": "Luke",
+      "email": "luke.wright@leidos.com"
+    },
+    {
+      "name": "Brody",
+      "email": "brody.clark@leidos.com"
+    },
+    {
+      "name": "Maddox",
+      "email": "maddox.jackson@leidos.com"
+    },
+    {
+      "name": "Arianna",
+      "email": "arianna.taylor@leidos.com"
+    },
+    {
+      "name": "Henry",
+      "email": "henry.jones@leidos.com"
+    },
+    {
+      "name": "Zara",
+      "email": "zara.green@leidos.com"
+    },
+    {
+      "name": "Lincoln",
+      "email": "lincoln.wilson@leidos.com"
+    },
+    {
+      "name": "Madeline",
+      "email": "madeline.roberts@leidos.com"
+    },
+    {
+      "name": "Asher",
+      "email": "asher.garcia@leidos.com"
+    },
+    {
+      "name": "Brooklyn",
+      "email": "brooklyn.martin@leidos.com"
+    },
+    {
+      "name": "Aaron",
+      "email": "aaron.brown@leidos.com"
+    },
+    {
+      "name": "Scarlett",
+      "email": "scarlett.evans@leidos.com"
+    },
+    {
+      "name": "Jace",
+      "email": "jace.anderson@leidos.com"
+    },
+    {
+      "name": "Elena",
+      "email": "elena.taylor@leidos.com"
+    },
+    {
+      "name": "Joseph",
+      "email": "joseph.wright@leidos.com"
+    },
+    {
+      "name": "Harley",
+      "email": "harley.jones@leidos.com"
+    },
+    {
+      "name": "Genesis",
+      "email": "genesis.brown@leidos.com"
+    },
+    {
+      "name": "Ryder",
+      "email": "ryder.evans@leidos.com"
+    },
+    {
+      "name": "Sophia",
+      "email": "sophia.anderson@leidos.com"
+    },
+    {
+      "name": "Jasper",
+      "email": "jasper.jackson@leidos.com"
+    },
+    {
+      "name": "Hazel",
+      "email": "hazel.wilson@leidos.com"
+    },
+    {
+      "name": "Samuel",
+      "email": "samuel.taylor@leidos.com"
+    },
+    {
+      "name": "Alice",
+      "email": "alice.brown@leidos.com"
+    },
+    {
+      "name": "Beckett",
+      "email": "beckett.garcia@leidos.com"
+    },
+    {
+      "name": "Violet",
+      "email": "violet.morris@leidos.com"
+    },
+    {
+      "name": "Jackson",
+      "email": "jackson.wright@leidos.com"
+    },
+    {
+      "name": "Amelia",
+      "email": "amelia.clark@leidos.com"
+    },
+    {
+      "name": "Hunter",
+      "email": "hunter.green@leidos.com"
+    },
+    {
+      "name": "Brielle",
+      "email": "brielle.jones@leidos.com"
+    },
+    {
+      "name": "Evan",
+      "email": "evan.evans@leidos.com"
+    },
+    {
+      "name": "Hazel",
+      "email": "hazel.roberts@leidos.com"
+    },
+    {
+      "name": "Gabriel",
+      "email": "gabriel.anderson@leidos.com"
+    },
+    {
+      "name": "Nolan",
+      "email": "nolan.garcia@leidos.com"
+    },
+    {
+      "name": "Piper",
+      "email": "piper.martin@leidos.com"
+    },
+    {
+      "name": "Eleanor",
+      "email": "eleanor.clark@leidos.com"
+    },
+    {
+      "name": "Elijah",
+      "email": "elijah.green@leidos.com"
+    },
+    {
+      "name": "Sophie",
+      "email": "sophie.wright@leidos.com"
+    },
+    {
+      "name": "Grayson",
+      "email": "grayson.evans@leidos.com"
+    },
+    {
+      "name": "Vivian",
+      "email": "vivian.taylor@leidos.com"
+    },
+    {
+      "name": "Mason",
+      "email": "mason.brown@leidos.com"
+    },
+    {
+      "name": "Ellie",
+      "email": "ellie.jackson@leidos.com"
+    },
+    {
+      "name": "Sebastian",
+      "email": "sebastian.anderson@leidos.com"
+    },
+    {
+      "name": "Lucy",
+      "email": "lucy.garcia@leidos.com"
+    },
+    {
+      "name": "Nathan",
+      "email": "nathan.wright@leidos.com"
+    },
+    {
+      "name": "Quinn",
+      "email": "quinn.jones@leidos.com"
+    },
+    {
+      "name": "Savannah",
+      "email": "savannah.roberts@leidos.com"
+    },
+    {
+      "name": "Gavin",
+      "email": "gavin.clark@leidos.com"
+    },
+    {
+      "name": "Charlotte",
+      "email": "charlotte.evans@leidos.com"
+    },
+    {
+      "name": "Finn",
+      "email": "finn.anderson@leidos.com"
+    },
+    {
+      "name": "Willow",
+      "email": "willow.jones@leidos.com"
+    },
+    {
+      "name": "Isaiah",
+      "email": "isaiah.jackson@leidos.com"
+    },
+    {
+      "name": "Maya",
+      "email": "maya.wilson@leidos.com"
+    },
+    {
+      "name": "Jameson",
+      "email": "jameson.taylor@leidos.com"
+    },
+    {
+      "name": "Ivy",
+      "email": "ivy.anderson@leidos.com"
+    },
+    {
+      "name": "Grayson",
+      "email": "grayson.morris@leidos.com"
+    },
+    {
+      "name": "Luna",
+      "email": "luna.clark@leidos.com"
+    },
+    {
+      "name": "Maxwell",
+      "email": "maxwell.garcia@leidos.com"
+    },
+    {
+      "name": "Bella",
+      "email": "bella.brown@leidos.com"
+    },
+    {
+      "name": "Penelope",
+      "email": "penelope.evans@leidos.com"
+    },
+    {
+      "name": "Jonah",
+      "email": "jonah.wright@leidos.com"
+    },
+    {
+      "name": "Lucy",
+      "email": "lucy.jones@leidos.com"
+    },
+    {
+      "name": "Molly",
+      "email": "molly.green@leidos.com"
+    },
+    {
+      "name": "Henry",
+      "email": "henry.garcia@leidos.com"
+    },
+    {
+      "name": "Sophia",
+      "email": "sophia.anderson@leidos.com"
+    },
+    {
+      "name": "Roman",
+      "email": "roman.jones@leidos.com"
+    },
+    {
+      "name": "Isabella",
+      "email": "isabella.evans@leidos.com"
+    },
+    {
+      "name": "Cooper",
+      "email": "cooper.clark@leidos.com"
+    },
+    {
+      "name": "Eva",
+      "email": "eva.roberts@leidos.com"
+    },
+    {
+      "name": "David",
+      "email": "david.martin@leidos.com"
+    },
+    {
+      "name": "Lily",
+      "email": "lily.taylor@leidos.com"
+    },
+    {
+      "name": "Oliver",
+      "email": "oliver.evans@leidos.com"
+    },
+    {
+      "name": "Leo",
+      "email": "leo.jackson@leidos.com"
+    },
+    {
+      "name": "Ava",
+      "email": "ava.wright@leidos.com"
+    },
+    {
+      "name": "Samuel",
+      "email": "samuel.brown@leidos.com"
+    },
+    {
+      "name": "Amelia",
+      "email": "amelia.anderson@leidos.com"
+    },
+    {
+      "name": "Peyton",
+      "email": "peyton.garcia@leidos.com"
+    },
+    {
+      "name": "Sebastian",
+      "email": "sebastian.morris@leidos.com"
+    },
+    {
+      "name": "Cora",
+      "email": "cora.clark@leidos.com"
+    },
+    {
+      "name": "Logan",
+      "email": "logan.roberts@leidos.com"
+    },
+    {
+      "name": "Blake",
+      "email": "blake.evans@leidos.com"
+    },
+    {
+      "name": "Violet",
+      "email": "violet.taylor@leidos.com"
+    },
+    {
+      "name": "Zachary",
+      "email": "zachary.wright@leidos.com"
+    },
+    {
+      "name": "Clara",
+      "email": "clara.anderson@leidos.com"
+    },
+    {
+      "name": "Miles",
+      "email": "miles.brown@leidos.com"
+    },
+    {
+      "name": "Isla",
+      "email": "isla.garcia@leidos.com"
+    },
+    {
+      "name": "Riley",
+      "email": "riley.jones@leidos.com"
+    },
+    {
+      "name": "Kinsley",
+      "email": "kinsley.evans@leidos.com"
+    },
+    {
+      "name": "Oliver",
+      "email": "oliver.morris@leidos.com"
+    },
+    {
+      "name": "Jude",
+      "email": "jude.clark@leidos.com"
+    },
+    {
+      "name": "Charlotte",
+      "email": "charlotte.green@leidos.com"
+    },
+    {
+      "name": "Brianna",
+      "email": "brianna.roberts@leidos.com"
+    },
+    {
+      "name": "Chase",
+      "email": "chase.jackson@leidos.com"
+    },
+    {
+      "name": "Ellie",
+      "email": "ellie.taylor@leidos.com"
+    },
+    {
+      "name": "Declan",
+      "email": "declan.anderson@leidos.com"
+    },
+    {
+      "name": "Mia",
+      "email": "mia.jones@leidos.com"
+    },
+    {
+      "name": "Harper",
+      "email": "harper.wright@leidos.com"
+    },
+    {
+      "name": "Finn",
+      "email": "finn.brown@leidos.com"
+    },
+    {
+      "name": "Sophie",
+      "email": "sophie.evans@leidos.com"
+    },
+    {
+      "name": "Jackson",
+      "email": "jackson.clark@leidos.com"
+    },
+    {
+      "name": "Avery",
+      "email": "avery.roberts@leidos.com"
+    },
+    {
+      "name": "Hannah",
+      "email": "hannah.anderson@leidos.com"
+    },
+    {
+      "name": "Griffin",
+      "email": "griffin.garcia@leidos.com"
+    },
+    {
+      "name": "Rylee",
+      "email": "rylee.jones@leidos.com"
+    },
+    {
+      "name": "Owen",
+      "email": "owen.wright@leidos.com"
+    },
+    {
+      "name": "Scarlett",
+      "email": "scarlett.green@leidos.com"
+    },
+    {
+      "name": "Eli",
+      "email": "eli.evans@leidos.com"
+    },
+    {
+      "name": "Lila",
+      "email": "lila.morris@leidos.com"
+    },
+    {
+      "name": "Aiden",
+      "email": "aiden.clark@leidos.com"
+    },
+    {
+      "name": "Zoe",
+      "email": "zoe.anderson@leidos.com"
+    },
+    {
+      "name": "Maddox",
+      "email": "maddox.roberts@leidos.com"
+    },
+    {
+      "name": "Chloe",
+      "email": "chloe.jackson@leidos.com"
+    },
+    {
+      "name": "Aria",
+      "email": "aria.jones@leidos.com"
+    },
+    {
+      "name": "Henry",
+      "email": "henry.wilson@leidos.com"
+    },
+    {
+      "name": "Stella",
+      "email": "stella.brown@leidos.com"
+    },
+    {
+      "name": "Levi",
+      "email": "levi.evans@leidos.com"
+    },
+    {
+      "name": "Julian",
+      "email": "julian.garcia@leidos.com"
+    },
+    {
+      "name": "Sienna",
+      "email": "sienna.morris@leidos.com"
+    },
+    {
+      "name": "Eliza",
+      "email": "eliza.clark@leidos.com"
+    },
+    {
+      "name": "Leo",
+      "email": "leo.roberts@leidos.com"
+    },
+    {
+      "name": "Alex",
+      "email": "alex.anderson@leidos.com"
+    },
+    {
+      "name": "Grace",
+      "email": "grace.jones@leidos.com"
+    },
+    {
+      "name": "Ollie",
+      "email": "ollie.wright@leidos.com"
+    },
+    {
+      "name": "Willa",
+      "email": "willa.green@leidos.com"
+    },
+    {
+      "name": "Nora",
+      "email": "nora.evans@leidos.com"
+    },
+    {
+      "name": "Jack",
+      "email": "jack.morris@leidos.com"
+    },
+    {
+      "name": "Ivy",
+      "email": "ivy.clark@leidos.com"
+    },
+    {
+      "name": "Noah",
+      "email": "noah.roberts@leidos.com"
+    },
+    {
+      "name": "Mila",
+      "email": "mila.anderson@leidos.com"
+    },
+    {
+      "name": "Brooks",
+      "email": "brooks.jones@leidos.com"
+    },
+    {
+      "name": "Evelyn",
+      "email": "evelyn.wright@leidos.com"
+    },
+    {
+      "name": "Rory",
+      "email": "rory.green@leidos.com"
+    },
+    {
+      "name": "James",
+      "email": "james.evans@leidos.com"
+    },
+    {
+      "name": "Penelope",
+      "email": "penelope.morris@leidos.com"
+    },
+    {
+      "name": "Ellie",
+      "email": "ellie.clark@leidos.com"
+    },
+    {
+      "name": "Caleb",
+      "email": "caleb.roberts@leidos.com"
+    },
+    {
+      "name": "Violet",
+      "email": "violet.anderson@leidos.com"
+    },
+    {
+      "name": "Sawyer",
+      "email": "sawyer.jones@leidos.com"
+    },
+    {
+      "name": "Clara",
+      "email": "clara.wright@leidos.com"
+    },
+    {
+      "name": "Riley",
+      "email": "riley.green@leidos.com"
+    },
+    {
+      "name": "Thomas",
+      "email": "thomas.evans@leidos.com"
+    },
+    {
+      "name": "Harper",
+      "email": "harper.morris@leidos.com"
+    },
+    {
+      "name": "Silas",
+      "email": "silas.clark@leidos.com"
+    },
+    {
+      "name": "Amelia",
+      "email": "amelia.roberts@leidos.com"
+    },
+    {
+      "name": "Jonah",
+      "email": "jonah.anderson@leidos.com"
+    },
+    {
+      "name": "Eleanor",
+      "email": "eleanor.jones@leidos.com"
+    },
+    {
+      "name": "Wyatt",
+      "email": "wyatt.wright@leidos.com"
+    },
+    {
+      "name": "Madeline",
+      "email": "madeline.green@leidos.com"
+    },
+    {
+      "name": "Oliver",
+      "email": "oliver.evans@leidos.com"
+    }
+  ]
+}

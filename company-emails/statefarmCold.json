@@ -1,0 +1,488 @@
+{
+  "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I understand your time is valuable, so I’ll keep it brief. I am:\n\n\t- A full-stack developer with over 5 years of industry experience.\n\t- Currently pursuing a Master’s in Computer Engineering at New York University (NYU).\n\nI am interested in a Summer Internship in 2025 at State Farm. Here’s what I bring to the table:\n\n\t- A strong passion for technology innovation and hands-on experience in developing and optimizing software solutions.\n\t- The ability to contribute to impactful projects, particularly leveraging my skills in automation, software engineering, and cloud technologies, to help State Farm deliver leading insurance and financial services.\n\nThank you for considering my application. I would be thrilled to discuss how I could contribute to your team.\n\nBest regards,\nChinmay Shringi\n+1(201) 284-0211\nLinkedIn: https://www.linkedin.com/in/chinmay-shringi-105736173/\nGitHub: https://github.com/ChinmayShringi\nMy Website: https://chinmayshringi.web.app/",
+  "subject": "Internship Candidate with Strong SDE Skills",
+  "contacts1": [
+    {
+      "name": "Chinmay",
+      "email": "chinmayusa4@gmail.com"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Susanne",
+      "email": "susanne.gallagher@statefarm.com"
+    },
+    {
+      "name": "LaGoy",
+      "email": "dan.lagoy@statefarm.com"
+    },
+    {
+      "name": "Nazyrah",
+      "email": "nazyrah.rogers@statefarm.com"
+    },
+    {
+      "name": "Lamere",
+      "email": "patricia.lamere@statefarm.com"
+    },
+    {
+      "name": "Mary",
+      "email": "mary.grieser@statefarm.com"
+    },
+    {
+      "name": "Robinson",
+      "email": "bridget.robinson@statefarm.com"
+    },
+    {
+      "name": "Luis",
+      "email": "luis.garcia@statefarm.com"
+    },
+    {
+      "name": "Jami",
+      "email": "jami.v@statefarm.com"
+    },
+    {
+      "name": "Willits",
+      "email": "nic.willits@statefarm.com"
+    },
+    {
+      "name": "Pearson",
+      "email": "ethan.pearson@statefarm.com"
+    },
+    {
+      "name": "Miller",
+      "email": "jessica.miller@statefarm.com"
+    },
+    {
+      "name": "Harris",
+      "email": "david.harris@statefarm.com"
+    },
+    {
+      "name": "Johnson",
+      "email": "emily.johnson@statefarm.com"
+    },
+    {
+      "name": "Taylor",
+      "email": "michael.taylor@statefarm.com"
+    },
+    {
+      "name": "Walker",
+      "email": "chris.walker@statefarm.com"
+    },
+    {
+      "name": "Brown",
+      "email": "alex.brown@statefarm.com"
+    },
+    {
+      "name": "Davis",
+      "email": "jordan.davis@statefarm.com"
+    },
+    {
+      "name": "Thomas",
+      "email": "rachel.thomas@statefarm.com"
+    },
+    {
+      "name": "Martinez",
+      "email": "sam.martinez@statefarm.com"
+    },
+    {
+      "name": "Gonzalez",
+      "email": "maria.gonzalez@statefarm.com"
+    },
+    {
+      "name": "Lee",
+      "email": "ashley.lee@statefarm.com"
+    },
+    {
+      "name": "Jackson",
+      "email": "will.jackson@statefarm.com"
+    },
+    {
+      "name": "White",
+      "email": "lucy.white@statefarm.com"
+    },
+    {
+      "name": "Martin",
+      "email": "jon.martin@statefarm.com"
+    },
+    {
+      "name": "Clark",
+      "email": "emma.clark@statefarm.com"
+    },
+    {
+      "name": "Lewis",
+      "email": "olivia.lewis@statefarm.com"
+    },
+    {
+      "name": "Young",
+      "email": "hannah.young@statefarm.com"
+    },
+    {
+      "name": "Hall",
+      "email": "ryan.hall@statefarm.com"
+    },
+    {
+      "name": "Allen",
+      "email": "megan.allen@statefarm.com"
+    },
+    {
+      "name": "Scott",
+      "email": "matthew.scott@statefarm.com"
+    },
+    {
+      "name": "Adams",
+      "email": "lauren.adams@statefarm.com"
+    },
+    {
+      "name": "Nelson",
+      "email": "ben.nelson@statefarm.com"
+    },
+    {
+      "name": "Baker",
+      "email": "sarah.baker@statefarm.com"
+    },
+    {
+      "name": "Rivera",
+      "email": "juan.rivera@statefarm.com"
+    },
+    {
+      "name": "Murphy",
+      "email": "kelly.murphy@statefarm.com"
+    },
+    {
+      "name": "Price",
+      "email": "jacob.price@statefarm.com"
+    },
+    {
+      "name": "Reed",
+      "email": "paul.reed@statefarm.com"
+    },
+    {
+      "name": "Powell",
+      "email": "jason.powell@statefarm.com"
+    },
+    {
+      "name": "Perry",
+      "email": "nancy.perry@statefarm.com"
+    },
+    {
+      "name": "Long",
+      "email": "brandon.long@statefarm.com"
+    },
+    {
+      "name": "Jenkins",
+      "email": "carol.jenkins@statefarm.com"
+    },
+    {
+      "name": "Foster",
+      "email": "daniel.foster@statefarm.com"
+    },
+    {
+      "name": "Sanders",
+      "email": "rebecca.sanders@statefarm.com"
+    },
+    {
+      "name": "Ross",
+      "email": "julia.ross@statefarm.com"
+    },
+    {
+      "name": "Gutierrez",
+      "email": "oscar.gutierrez@statefarm.com"
+    },
+    {
+      "name": "Ramirez",
+      "email": "victor.ramirez@statefarm.com"
+    },
+    {
+      "name": "Collins",
+      "email": "adam.collins@statefarm.com"
+    },
+    {
+      "name": "Torres",
+      "email": "sofia.torres@statefarm.com"
+    },
+    {
+      "name": "Peterson",
+      "email": "dylan.peterson@statefarm.com"
+    },
+    {
+      "name": "Parker",
+      "email": "mason.parker@statefarm.com"
+    },
+    {
+      "name": "Evans",
+      "email": "brooke.evans@statefarm.com"
+    },
+    {
+      "name": "Cook",
+      "email": "grant.cook@statefarm.com"
+    },
+    {
+      "name": "Butler",
+      "email": "tiffany.butler@statefarm.com"
+    },
+    {
+      "name": "Bailey",
+      "email": "kevin.bailey@statefarm.com"
+    },
+    {
+      "name": "Diaz",
+      "email": "eric.diaz@statefarm.com"
+    },
+    {
+      "name": "Hayes",
+      "email": "melissa.hayes@statefarm.com"
+    },
+    {
+      "name": "Brooks",
+      "email": "alex.brooks@statefarm.com"
+    },
+    {
+      "name": "Ward",
+      "email": "emily.ward@statefarm.com"
+    },
+    {
+      "name": "James",
+      "email": "cameron.james@statefarm.com"
+    },
+    {
+      "name": "Watson",
+      "email": "tina.watson@statefarm.com"
+    },
+    {
+      "name": "Patterson",
+      "email": "gary.patterson@statefarm.com"
+    },
+    {
+      "name": "Hughes",
+      "email": "anna.hughes@statefarm.com"
+    },
+    {
+      "name": "Flores",
+      "email": "javier.flores@statefarm.com"
+    },
+    {
+      "name": "Simmons",
+      "email": "kelly.simmons@statefarm.com"
+    },
+    {
+      "name": "Bennett",
+      "email": "oliver.bennett@statefarm.com"
+    },
+    {
+      "name": "Richardson",
+      "email": "jack.richardson@statefarm.com"
+    },
+    {
+      "name": "Griffin",
+      "email": "abby.griffin@statefarm.com"
+    },
+    {
+      "name": "Russell",
+      "email": "hank.russell@statefarm.com"
+    },
+    {
+      "name": "Bishop",
+      "email": "angela.bishop@statefarm.com"
+    },
+    {
+      "name": "Stewart",
+      "email": "derek.stewart@statefarm.com"
+    },
+    {
+      "name": "Carter",
+      "email": "jessica.carter@statefarm.com"
+    },
+    {
+      "name": "Howard",
+      "email": "nina.howard@statefarm.com"
+    },
+    {
+      "name": "Griffith",
+      "email": "sam.griffith@statefarm.com"
+    },
+    {
+      "name": "Reynolds",
+      "email": "ellen.reynolds@statefarm.com"
+    },
+    {
+      "name": "Fisher",
+      "email": "george.fisher@statefarm.com"
+    },
+    {
+      "name": "Hawkins",
+      "email": "margaret.hawkins@statefarm.com"
+    },
+    {
+      "name": "Stone",
+      "email": "wayne.stone@statefarm.com"
+    },
+    {
+      "name": "Woods",
+      "email": "zara.woods@statefarm.com"
+    },
+    {
+      "name": "Knight",
+      "email": "jackie.knight@statefarm.com"
+    },
+    {
+      "name": "Bradley",
+      "email": "leo.bradley@statefarm.com"
+    },
+    {
+      "name": "Holt",
+      "email": "gina.holt@statefarm.com"
+    },
+    {
+      "name": "Nichols",
+      "email": "frank.nichols@statefarm.com"
+    },
+    {
+      "name": "Williamson",
+      "email": "andrew.williamson@statefarm.com"
+    },
+    {
+      "name": "Sandoval",
+      "email": "mia.sandoval@statefarm.com"
+    },
+    {
+      "name": "Graham",
+      "email": "ryan.graham@statefarm.com"
+    },
+    {
+      "name": "Mendez",
+      "email": "lisa.mendez@statefarm.com"
+    },
+    {
+      "name": "Hunt",
+      "email": "chris.hunt@statefarm.com"
+    },
+    {
+      "name": "Moss",
+      "email": "aaron.moss@statefarm.com"
+    },
+    {
+      "name": "Swanson",
+      "email": "holly.swanson@statefarm.com"
+    },
+    {
+      "name": "Wong",
+      "email": "patrick.wong@statefarm.com"
+    },
+    {
+      "name": "Fleming",
+      "email": "elise.fleming@statefarm.com"
+    },
+    {
+      "name": "Park",
+      "email": "justin.park@statefarm.com"
+    },
+    {
+      "name": "Black",
+      "email": "laura.black@statefarm.com"
+    },
+    {
+      "name": "Warner",
+      "email": "ralph.warner@statefarm.com"
+    },
+    {
+      "name": "King",
+      "email": "felix.king@statefarm.com"
+    },
+    {
+      "name": "Maldonado",
+      "email": "claudia.maldonado@statefarm.com"
+    },
+    {
+      "name": "Summers",
+      "email": "edward.summers@statefarm.com"
+    },
+    {
+      "name": "Cross",
+      "email": "alexis.cross@statefarm.com"
+    },
+    {
+      "name": "Jennings",
+      "email": "samuel.jennings@statefarm.com"
+    },
+    {
+      "name": "Sharp",
+      "email": "peter.sharp@statefarm.com"
+    },
+    {
+      "name": "Bates",
+      "email": "lori.bates@statefarm.com"
+    },
+    {
+      "name": "Caldwell",
+      "email": "colin.caldwell@statefarm.com"
+    },
+    {
+      "name": "Neal",
+      "email": "max.neal@statefarm.com"
+    },
+    {
+      "name": "Herrera",
+      "email": "alicia.herrera@statefarm.com"
+    },
+    {
+      "name": "Craig",
+      "email": "gabriel.craig@statefarm.com"
+    },
+    {
+      "name": "Fletcher",
+      "email": "tina.fletcher@statefarm.com"
+    },
+    {
+      "name": "Glover",
+      "email": "jim.glover@statefarm.com"
+    },
+    {
+      "name": "Manning",
+      "email": "laura.manning@statefarm.com"
+    },
+    {
+      "name": "Elliott",
+      "email": "nathan.elliott@statefarm.com"
+    },
+    {
+      "name": "Kelley",
+      "email": "donna.kelley@statefarm.com"
+    },
+    {
+      "name": "Dunn",
+      "email": "timothy.dunn@statefarm.com"
+    },
+    {
+      "name": "Norman",
+      "email": "rachel.norman@statefarm.com"
+    },
+    {
+      "name": "Greer",
+      "email": "kyle.greer@statefarm.com"
+    },
+    {
+      "name": "Conner",
+      "email": "megan.conner@statefarm.com"
+    },
+    {
+      "name": "Wade",
+      "email": "jonathan.wade@statefarm.com"
+    },
+    {
+      "name": "Schmidt",
+      "email": "andrea.schmidt@statefarm.com"
+    },
+    {
+      "name": "Patton",
+      "email": "dennis.patton@statefarm.com"
+    },
+    {
+      "name": "Bruce",
+      "email": "carol.bruce@statefarm.com"
+    },
+    {
+      "name": "Owen",
+      "email": "jacob.owen@statefarm.com"
+    }
+  ]
+}

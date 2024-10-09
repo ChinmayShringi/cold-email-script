@@ -1,0 +1,17 @@
+{
+  "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I understand your time is valuable, so I’ll keep it brief. I am:\n\n\t- A full-stack developer with over 5 years of industry experience.\n\t- Currently pursuing a Master’s in Computer Engineering at NYU.\n\nI am interested in the Software Engineer Intern position at SingleStore because:\n\n\t- I am excited about the opportunity to work with real-time technologies that are revolutionizing how companies operate every day.\n\t- I admire SingleStore's emphasis on rapid production, end-to-end project ownership, and the collaborative work environment that fosters innovation.\n\nThank you for considering my application. I would be thrilled to discuss how I could contribute to your team.\n\nBest regards,\nChinmay Shringi\n+1(201) 284-0211\nLinkedIn: https://www.linkedin.com/in/chinmay-shringi-105736173/\nGitHub: https://github.com/ChinmayShringi\nMy Website: https://chinmayshringi.web.app/",
+  "subject": "Collaboration Opportunities at SingleStore",
+  "contacts": [
+    {
+      "name": "Chinmay Shringi",
+      "email": "chinmayusa4@gmail.com"
+    }
+  ],
+  "contact1s": [
+    { "name": "Paul", "email": "pluu@singlestore.com" },
+    { "name": "Michael", "email": "mw@singlestore.com" },
+    { "name": "Hamid", "email": "hali@singlestore.com" },
+    { "name": "Eric", "email": "ecampos@singlestore.com" },
+    { "name": "Meredith", "email": "mb@singlestore.com" }
+  ]
+}

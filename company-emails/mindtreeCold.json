@@ -1,0 +1,56 @@
+{
+  "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I understand your time is valuable, so I’ll keep it brief.\nI came across your information on LinkedIn and wanted to reach out.\n\nI am:\n\n\t- A full-stack developer with over 5 years of industry experience.\n\t- Currently pursuing a Master’s in Computer Engineering at New York University (NYU).\n\nI am interested in a Summer Internship in 2025 at Mindtree. Here’s what I bring to the table:\n\n\t- A strong passion for technology innovation and hands-on experience in developing and optimizing software solutions.\n\t- The ability to contribute to impactful projects, particularly leveraging my skills in automation, software engineering, and cloud technologies.\n\nThank you for considering my application. I would be thrilled to discuss how I could contribute to your team.\n\nBest regards,\nChinmay Shringi\n+1(201) 284-0211\nLinkedIn: https://www.linkedin.com/in/chinmay-shringi-105736173/\nGitHub: https://github.com/ChinmayShringi\nMy Website: https://chinmayshringi.web.app/",
+  "subject": "Strong Candidate with Cutting-Edge SDE Skills",
+  "contacts": [
+    {
+      "name": "Chinmay",
+      "email": "fakeairhead@gmail.com"
+    }
+  ],
+  "contact1s": [
+    {
+      "name": "Pavan",
+      "email": "pavan.mulabagal@mindtree.com"
+    },
+    {
+      "name": "Abdul",
+      "email": "abdul.mohammad@mindtree.com"
+    },
+    {
+      "name": "Allison",
+      "email": "allison.crowder@mindtree.com"
+    },
+    {
+      "name": "Hima",
+      "email": "hima.vasam@mindtree.com"
+    },
+    {
+      "name": "Joy",
+      "email": "joy.p@mindtree.com"
+    },
+    {
+      "name": "Ramachandra",
+      "email": "ramachandra.reddy@mindtree.com"
+    },
+    {
+      "name": "Sneha",
+      "email": "sneha.pathak@mindtree.com"
+    },
+    {
+      "name": "Syed",
+      "email": "syed.m@mindtree.com"
+    },
+    {
+      "name": "Kavyanjali",
+      "email": "kavyanjali.das@mindtree.com"
+    },
+    {
+      "name": "Ujwala",
+      "email": "ujwala.b@mindtree.com"
+    },
+    {
+      "name": "Mukta",
+      "email": "mukta.kulkarni@mindtree.com"
+    }
+  ]
+}

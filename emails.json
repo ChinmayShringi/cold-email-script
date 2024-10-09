@@ -1,0 +1,9 @@
+  [
+    {
+      "to_email": "chinmayusa4@gmail.com",
+  "subject": "Keen to Collaborate in Music Business Research",
+  "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I understand your time is valuable, so I’ll keep it brief. I am:\n\n\t- A full-stack developer with over 5 years of hands-on industry experience in application development and cloud technologies.\n\t- Currently pursuing a Master’s in Computer Engineering at New York University (NYU).\n\t- I am looking for an on-campus job.\n\nI am reaching out to explore potential opportunities to collaborate on {{COLABORATE_ON}}\n\n\nThank you for considering my request. I would appreciate any guidance on available opportunities or next steps.\n\nBest regards,\nChinmay Shringi\n+1(201) 284-0211\nLinkedIn: https://www.linkedin.com/in/chinmay-shringi-105736173/\nGitHub: https://github.com/ChinmayShringi\nMy Website: https://chinmayshringi.web.app/",
+      "name": "Helga",
+      "COLABORATE_ON": "research initiatives related to music business, as these areas align closely with my skills and interests."
+    }
+  ]

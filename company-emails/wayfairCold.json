@@ -1,0 +1,1207 @@
+{
+"body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I understand your time is valuable, so I’ll keep it brief. I am:\n\n\t- A full-stack developer with over 5 years of industry experience.\n\t- Currently pursuing a Master’s in Computer Engineering at New York University (NYU).\n\nI am interested in a Summer Internship in 2025 at Wayfair. Here’s what I bring to the table:\n\n\t- A strong passion for technology innovation and hands-on experience in developing and optimizing software solutions.\n\t- The ability to contribute to impactful projects, particularly leveraging my skills in automation, software engineering, and cloud technologies.\n\nThank you for considering my application. I would be thrilled to discuss how I could contribute to your team.\n\nBest regards,\nChinmay Shringi\n+1(201) 284-0211\nLinkedIn: https://www.linkedin.com/in/chinmay-shringi-105736173/\nGitHub: https://github.com/ChinmayShringi\nMy Website: https://chinmayshringi.web.app/",
+  "subject": "Strong Candidate with Cutting-Edge SDE Skills",
+  "contact1s": [
+    {
+      "name": "Chinmay",
+      "email": "chinmayusa4@gmail.com"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Jared",
+      "email": "jwarren@wayfair.com"
+    },
+    {
+      "name": "Greg",
+      "email": "gjames@wayfair.com"
+    },
+    {
+      "name": "Lindsay",
+      "email": "lp@wayfair.com"
+    },
+    {
+      "name": "Amanda",
+      "email": "asestito@wayfair.com"
+    },
+    {
+      "name": "Katie",
+      "email": "kemmons@wayfair.com"
+    },
+    {
+      "name": "Jillian",
+      "email": "jbjorncaron@wayfair.com"
+    },
+    {
+      "name": "Kinsey",
+      "email": "klesak@wayfair.com"
+    },
+    {
+      "name": "Emily",
+      "email": "emato@wayfair.com"
+    },
+    {
+      "name": "Emma",
+      "email": "epolk@wayfair.com"
+    },
+    {
+      "name": "Patrick",
+      "email": "pa@wayfair.com"
+    },
+    {
+      "name": "John",
+      "email": "jmartin@wayfair.com"
+    },
+    {
+      "name": "Brittany",
+      "email": "bward@wayfair.com"
+    },
+    {
+      "name": "Jacob",
+      "email": "jinman@wayfair.com"
+    },
+    {
+      "name": "Kyle",
+      "email": "kbuschmann@wayfair.com"
+    },
+    {
+      "name": "Lauren",
+      "email": "llugo@wayfair.com"
+    },
+    {
+      "name": "Emmaliese",
+      "email": "elauber@wayfair.com"
+    },
+    {
+      "name": "Kayla",
+      "email": "ka@wayfair.com"
+    },
+    {
+      "name": "Troy",
+      "email": "tsutter@wayfair.com"
+    },
+    {
+      "name": "Sharon",
+      "email": "sgrantrobinson@wayfair.com"
+    },
+    {
+      "name": "Sherri",
+      "email": "swilson@wayfair.com"
+    },
+    {
+      "name": "Chloe",
+      "email": "cterrell@wayfair.com"
+    },
+    {
+      "name": "Priscilla",
+      "email": "pblack@wayfair.com"
+    },
+    {
+      "name": "Harsh",
+      "email": "hpai@wayfair.com"
+    },
+    {
+      "name": "Jenna",
+      "email": "jmacfarland@wayfair.com"
+    },
+    {
+      "name": "Dayna",
+      "email": "dhedman@wayfair.com"
+    },
+    {
+      "name": "Tess",
+      "email": "tciarcia@wayfair.com"
+    },
+    {
+      "name": "Chris",
+      "email": "cwoolston@wayfair.com"
+    },
+    {
+      "name": "Candace",
+      "email": "chunt@wayfair.com"
+    },
+    {
+      "name": "Samantha",
+      "email": "sbaicy@wayfair.com"
+    },
+    {
+      "name": "William",
+      "email": "wmengel@wayfair.com"
+    },
+    {
+      "name": "Rebekah",
+      "email": "rkeator@wayfair.com"
+    },
+    {
+      "name": "Brittany",
+      "email": "bgayne@wayfair.com"
+    },
+    {
+      "name": "Samantha",
+      "email": "spatrick@wayfair.com"
+    },
+    {
+      "name": "Snigdha",
+      "email": "skastoori@wayfair.com"
+    },
+    {
+      "name": "Kara",
+      "email": "kschwartz@wayfair.com"
+    },
+    {
+      "name": "Kim",
+      "email": "kmcarthur@wayfair.com"
+    },
+    {
+      "name": "Evan",
+      "email": "ebutters@wayfair.com"
+    },
+    {
+      "name": "Kate",
+      "email": "ksenne@wayfair.com"
+    },
+    {
+      "name": "Brianna",
+      "email": "bbrown@wayfair.com"
+    },
+    {
+      "name": "Veronica",
+      "email": "valvarez@wayfair.com"
+    },
+    {
+      "name": "Emma",
+      "email": "edoherty@wayfair.com"
+    },
+    {
+      "name": "Sarah",
+      "email": "shammer@wayfair.com"
+    },
+    {
+      "name": "Garrett",
+      "email": "grobins@wayfair.com"
+    },
+    {
+      "name": "Jose",
+      "email": "jsanchez@wayfair.com"
+    },
+    {
+      "name": "Madison",
+      "email": "mhons@wayfair.com"
+    },
+    {
+      "name": "Virginia",
+      "email": "vrho@wayfair.com"
+    },
+    {
+      "name": "Lisa",
+      "email": "lgrow@wayfair.com"
+    },
+    {
+      "name": "Alli",
+      "email": "arobison@wayfair.com"
+    },
+    {
+      "name": "Kevin",
+      "email": "kjacobo@wayfair.com"
+    },
+    {
+      "name": "Stephen",
+      "email": "srobinson@wayfair.com"
+    },
+
+    {
+      "name": "Tiara",
+      "email": "tlawson@wayfair.com"
+    },
+    {
+      "name": "Samantha",
+      "email": "ssheridan@wayfair.com"
+    },
+    {
+      "name": "Skylee",
+      "email": "sfalk@wayfair.com"
+    },
+    {
+      "name": "Dave",
+      "email": "dbarkin@wayfair.com"
+    },
+    {
+      "name": "Liz",
+      "email": "lobrien@wayfair.com"
+    },
+    {
+      "name": "Adrianna",
+      "email": "afoster@wayfair.com"
+    },
+    {
+      "name": "Madeline",
+      "email": "mreiser@wayfair.com"
+    },
+    {
+      "name": "Adam",
+      "email": "akarlen@wayfair.com"
+    },
+    {
+      "name": "Erika",
+      "email": "ejesikiewicz@wayfair.com"
+    },
+    {
+      "name": "Carla",
+      "email": "cguidugli@wayfair.com"
+    },
+    {
+      "name": "Cody",
+      "email": "criffle@wayfair.com"
+    },
+    {
+      "name": "Angela",
+      "email": "aholton@wayfair.com"
+    },
+    {
+      "name": "Lexi",
+      "email": "lprichard@wayfair.com"
+    },
+    {
+      "name": "Salma",
+      "email": "sesquivel@wayfair.com"
+    },
+    {
+      "name": "Nicholas",
+      "email": "ncubillas@wayfair.com"
+    },
+    {
+      "name": "Kristina",
+      "email": "kpouya@wayfair.com"
+    },
+    {
+      "name": "Kristine",
+      "email": "kshatas@wayfair.com"
+    },
+    {
+      "name": "James",
+      "email": "jkrumsiek@wayfair.com"
+    },
+    {
+      "name": "Allison",
+      "email": "ap@wayfair.com"
+    },
+    {
+      "name": "Alaya",
+      "email": "adillon@wayfair.com"
+    },
+    {
+      "name": "Jonathan",
+      "email": "jfox@wayfair.com"
+    },
+    {
+      "name": "Marlee",
+      "email": "mcoffin@wayfair.com"
+    },
+    {
+      "name": "Ana",
+      "email": "agonzalez@wayfair.com"
+    },
+    {
+      "name": "Michelle",
+      "email": "mmeyer@wayfair.com"
+    },
+    {
+      "name": "Lila",
+      "email": "lhaffey@wayfair.com"
+    },
+    {
+      "name": "Alex",
+      "email": "abilby@wayfair.com"
+    },
+    {
+      "name": "Hjalmar",
+      "email": "hnieves@wayfair.com"
+    },
+    {
+      "name": "Betsey",
+      "email": "bstrater@wayfair.com"
+    },
+    {
+      "name": "Marty",
+      "email": "mjones@wayfair.com"
+    },
+    {
+      "name": "Demetri",
+      "email": "dcanabe@wayfair.com"
+    },
+    {
+      "name": "Fidelia",
+      "email": "fcoria@wayfair.com"
+    },
+    {
+      "name": "Melanie",
+      "email": "mrodriguez@wayfair.com"
+    },
+    {
+      "name": "Rawan",
+      "email": "rhamie@wayfair.com"
+    },
+    {
+      "name": "Ayana",
+      "email": "amulrdrowoneal@wayfair.com"
+    },
+    {
+      "name": "Hannah",
+      "email": "hmartin@wayfair.com"
+    },
+    {
+      "name": "Kristin",
+      "email": "kbohi@wayfair.com"
+    },
+    {
+      "name": "Ramesh",
+      "email": "rkumar@wayfair.com"
+    },
+    {
+      "name": "Helen",
+      "email": "hslowey@wayfair.com"
+    },
+    {
+      "name": "Dylan",
+      "email": "dheaney@wayfair.com"
+    },
+    {
+      "name": "Alyssa",
+      "email": "amorgan@wayfair.com"
+    },
+    {
+      "name": "Zendaya",
+      "email": "zchaney@wayfair.com"
+    },
+    {
+      "name": "Abby",
+      "email": "amurray@wayfair.com"
+    },
+    {
+      "name": "Natasha",
+      "email": "ngrone@wayfair.com"
+    },
+    {
+      "name": "Lotus",
+      "email": "lfeliz@wayfair.com"
+    },
+    {
+      "name": "Patrick",
+      "email": "pneuguth@wayfair.com"
+    },
+    {
+      "name": "Conor",
+      "email": "coshea@wayfair.com"
+    },
+    {
+      "name": "Heena",
+      "email": "hshaikh@wayfair.com"
+    },
+    {
+      "name": "Brooke",
+      "email": "bruscio@wayfair.com"
+    },
+    {
+      "name": "Jameelah",
+      "email": "jmagwood@wayfair.com"
+    },
+    {
+      "name": "Anthony",
+      "email": "amatrisciano@wayfair.com"
+    },
+    {
+      "name": "Debbie",
+      "email": "dmcclintock@wayfair.com"
+    },
+    {
+      "name": "Jacob",
+      "email": "jmiller@wayfair.com"
+    },
+    {
+      "name": "Mustafa",
+      "email": "mbharmal@wayfair.com"
+    },
+    {
+      "name": "Christi",
+      "email": "cwicks@wayfair.com"
+    },
+    {
+      "name": "Kimberlee",
+      "email": "karthur@wayfair.com"
+    },
+    {
+      "name": "Katie",
+      "email": "kjones@wayfair.com"
+    },
+    {
+      "name": "Katy",
+      "email": "khuang@wayfair.com"
+    },
+    {
+      "name": "Tyler",
+      "email": "tpage@wayfair.com"
+    },
+    {
+      "name": "Angelina",
+      "email": "acortazzo@wayfair.com"
+    },
+    {
+      "name": "Israe'l",
+      "email": "iwf@wayfair.com"
+    },
+    {
+      "name": "Leah",
+      "email": "lbelogolovsky@wayfair.com"
+    },
+    {
+      "name": "Steph",
+      "email": "sscully@wayfair.com"
+    },
+    {
+      "name": "Katie",
+      "email": "khalowack@wayfair.com"
+    },
+    {
+      "name": "Lauren",
+      "email": "llowe@wayfair.com"
+    },
+    {
+      "name": "Cynthia",
+      "email": "cmoradel@wayfair.com"
+    },
+    {
+      "name": "Samira",
+      "email": "slobby@wayfair.com"
+    },
+    {
+      "name": "Jalynn",
+      "email": "jbruske@wayfair.com"
+    },
+    {
+      "name": "Sarah",
+      "email": "smurphy@wayfair.com"
+    },
+    {
+      "name": "Gaethan",
+      "email": "geugene@wayfair.com"
+    },
+    {
+      "name": "Michael",
+      "email": "mdeluca@wayfair.com"
+    },
+    {
+      "name": "Kimberly",
+      "email": "kludwig@wayfair.com"
+    },
+    {
+      "name": "Sarah",
+      "email": "sblair@wayfair.com"
+    },
+    {
+      "name": "Hannah",
+      "email": "hrebecchi@wayfair.com"
+    },
+    {
+      "name": "Jaclyn",
+      "email": "jprice@wayfair.com"
+    },
+    {
+      "name": "Matthew",
+      "email": "mhedlund@wayfair.com"
+    },
+    {
+      "name": "Margaret",
+      "email": "mjohnson@wayfair.com"
+    },
+    {
+      "name": "Nick",
+      "email": "ndiadamo@wayfair.com"
+    },
+    {
+      "name": "Taylor",
+      "email": "tjones@wayfair.com"
+    },
+    {
+      "name": "Chelle",
+      "email": "cm@wayfair.com"
+    },
+    {
+      "name": "Vanessa",
+      "email": "vreimer@wayfair.com"
+    },
+    {
+      "name": "Julianne",
+      "email": "jrainwater@wayfair.com"
+    },
+    {
+      "name": "Lauren",
+      "email": "lholtzman@wayfair.com"
+    },
+    {
+      "name": "Kaylor",
+      "email": "kdavies@wayfair.com"
+    },
+    {
+      "name": "Rachel",
+      "email": "rgolden@wayfair.com"
+    },
+    {
+      "name": "Jodie",
+      "email": "jgornall@wayfair.com"
+    },
+    {
+      "name": "Christine",
+      "email": "cmendoza@wayfair.com"
+    },
+    {
+      "name": "Tanzina",
+      "email": "ta@wayfair.com"
+    },
+    {
+      "name": "Phil",
+      "email": "plandry@wayfair.com"
+    },
+    {
+      "name": "Paulina",
+      "email": "pkiernan@wayfair.com"
+    },
+    {
+      "name": "Kelsey",
+      "email": "kcusack@wayfair.com"
+    },
+    {
+      "name": "Molly",
+      "email": "mbrown@wayfair.com"
+    },
+    {
+      "name": "Natalie",
+      "email": "ncopeland@wayfair.com"
+    },
+    {
+      "name": "Grant",
+      "email": "golsen@wayfair.com"
+    },
+    {
+      "name": "Jennifer",
+      "email": "js@wayfair.com"
+    },
+    {
+      "name": "James",
+      "email": "jneale@wayfair.com"
+    },
+    {
+      "name": "Regina",
+      "email": "rmacklin@wayfair.com"
+    },
+    {
+      "name": "Emily",
+      "email": "eproctor@wayfair.com"
+    },
+    {
+      "name": "Kaeli",
+      "email": "khuesman@wayfair.com"
+    },
+    {
+      "name": "Alexis",
+      "email": "avonkunes@wayfair.com"
+    },
+
+    {
+      "name": "Kyle",
+      "email": "kbedell@wayfair.com"
+    },
+    {
+      "name": "Dayna",
+      "email": "dmajewski@wayfair.com"
+    },
+    {
+      "name": "Samantha",
+      "email": "slockerby@wayfair.com"
+    },
+    {
+      "name": "Cara",
+      "email": "cdarr@wayfair.com"
+    },
+    {
+      "name": "Melissa",
+      "email": "mrossick@wayfair.com"
+    },
+    {
+      "name": "Evan",
+      "email": "efowler@wayfair.com"
+    },
+    {
+      "name": "Lanette",
+      "email": "lriggins@wayfair.com"
+    },
+    {
+      "name": "Tabitha",
+      "email": "tbighem@wayfair.com"
+    },
+    {
+      "name": "Libby",
+      "email": "ldickerson@wayfair.com"
+    },
+    {
+      "name": "Melissa",
+      "email": "maste@wayfair.com"
+    },
+    {
+      "name": "Nathan",
+      "email": "nangus@wayfair.com"
+    },
+    {
+      "name": "Michael",
+      "email": "msouliere@wayfair.com"
+    },
+    {
+      "name": "Kara",
+      "email": "kaltobello@wayfair.com"
+    },
+    {
+      "name": "Dustin",
+      "email": "dcheng@wayfair.com"
+    },
+    {
+      "name": "Maggie",
+      "email": "mkotleski@wayfair.com"
+    },
+    {
+      "name": "Christiana",
+      "email": "crathmanner@wayfair.com"
+    },
+    {
+      "name": "Saar",
+      "email": "shaber@wayfair.com"
+    },
+    {
+      "name": "Victoria",
+      "email": "vcummings@wayfair.com"
+    },
+    {
+      "name": "Brady",
+      "email": "bnunley@wayfair.com"
+    },
+    {
+      "name": "Trent",
+      "email": "tturner@wayfair.com"
+    },
+    {
+      "name": "Ahmed",
+      "email": "arashad@wayfair.com"
+    },
+    {
+      "name": "Ashley",
+      "email": "acrowe@wayfair.com"
+    },
+    {
+      "name": "Denee",
+      "email": "dwalker@wayfair.com"
+    },
+    {
+      "name": "Sushrut",
+      "email": "stadwalkar@wayfair.com"
+    },
+    {
+      "name": "Harsh",
+      "email": "hdarji@wayfair.com"
+    },
+    {
+      "name": "Kellie",
+      "email": "kbessette@wayfair.com"
+    },
+    {
+      "name": "Monica",
+      "email": "mmurillo@wayfair.com"
+    },
+    {
+      "name": "Tracy",
+      "email": "tklemens@wayfair.com"
+    },
+    {
+      "name": "Terry",
+      "email": "tjoyce@wayfair.com"
+    },
+    {
+      "name": "Kristina",
+      "email": "kgong@wayfair.com"
+    },
+    {
+      "name": "Jonathan",
+      "email": "jr@wayfair.com"
+    },
+    {
+      "name": "Alexander",
+      "email": "amelius@wayfair.com"
+    },
+    {
+      "name": "Heather",
+      "email": "hcabral@wayfair.com"
+    },
+    {
+      "name": "Diane",
+      "email": "dhendersonmaye@wayfair.com"
+    },
+    {
+      "name": "Gary",
+      "email": "gwegrzyn@wayfair.com"
+    },
+    {
+      "name": "Joana",
+      "email": "jkogan@wayfair.com"
+    },
+    {
+      "name": "Laura-Deanne",
+      "email": "lpurcell@wayfair.com"
+    },
+    {
+      "name": "Madeline",
+      "email": "mreiser@wayfair.com"
+    },
+    {
+      "name": "Adam",
+      "email": "akarlen@wayfair.com"
+    },
+    {
+      "name": "Erika",
+      "email": "ejesikiewicz@wayfair.com"
+    },
+    {
+      "name": "Carla",
+      "email": "cguidugli@wayfair.com"
+    },
+    {
+      "name": "Cody",
+      "email": "criffle@wayfair.com"
+    },
+    {
+      "name": "Angela",
+      "email": "aholton@wayfair.com"
+    },
+    {
+      "name": "Lexi",
+      "email": "lprichard@wayfair.com"
+    },
+    {
+      "name": "Salma",
+      "email": "sesquivel@wayfair.com"
+    },
+    {
+      "name": "Nicholas",
+      "email": "ncubillas@wayfair.com"
+    },
+    {
+      "name": "Kristina",
+      "email": "kpouya@wayfair.com"
+    },
+    {
+      "name": "Kristine",
+      "email": "kshatas@wayfair.com"
+    },
+    {
+      "name": "James",
+      "email": "jkrumsiek@wayfair.com"
+    },
+
+    {
+      "name": "Allison",
+      "email": "ap@wayfair.com"
+    },
+    {
+      "name": "Alaya",
+      "email": "adillon@wayfair.com"
+    },
+    {
+      "name": "Jonathan",
+      "email": "jfox@wayfair.com"
+    },
+    {
+      "name": "Marlee",
+      "email": "mcoffin@wayfair.com"
+    },
+    {
+      "name": "Ana",
+      "email": "agonzalez@wayfair.com"
+    },
+    {
+      "name": "Michelle",
+      "email": "mmeyer@wayfair.com"
+    },
+    {
+      "name": "Lila",
+      "email": "lhaffey@wayfair.com"
+    },
+    {
+      "name": "Alex",
+      "email": "abilby@wayfair.com"
+    },
+    {
+      "name": "Hjalmar",
+      "email": "hnieves@wayfair.com"
+    },
+    {
+      "name": "Betsey",
+      "email": "bstrater@wayfair.com"
+    },
+    {
+      "name": "Marty",
+      "email": "mjones@wayfair.com"
+    },
+    {
+      "name": "Demetri",
+      "email": "dcanabe@wayfair.com"
+    },
+    {
+      "name": "Fidelia",
+      "email": "fcoria@wayfair.com"
+    },
+    {
+      "name": "Melanie",
+      "email": "mrodriguez@wayfair.com"
+    },
+    {
+      "name": "Rawan",
+      "email": "rhamie@wayfair.com"
+    },
+    {
+      "name": "Ayana",
+      "email": "amuldrow@wayfair.com"
+    },
+    {
+      "name": "Hannah",
+      "email": "hmartin@wayfair.com"
+    },
+    {
+      "name": "Kristin",
+      "email": "kbohi@wayfair.com"
+    },
+    {
+      "name": "Ramesh",
+      "email": "rkumar@wayfair.com"
+    },
+    {
+      "name": "Helen",
+      "email": "hslowey@wayfair.com"
+    },
+    {
+      "name": "Dylan",
+      "email": "dheaney@wayfair.com"
+    },
+    {
+      "name": "Alyssa",
+      "email": "amorgan@wayfair.com"
+    },
+    {
+      "name": "Zendaya",
+      "email": "zchaney@wayfair.com"
+    },
+    {
+      "name": "Abby",
+      "email": "amurray@wayfair.com"
+    },
+    {
+      "name": "Olivia",
+      "email": "owalters@wayfair.com"
+    },
+    {
+      "name": "Carsen",
+      "email": "cmcbride@wayfair.com"
+    },
+    {
+      "name": "Natasha",
+      "email": "ngrone@wayfair.com"
+    },
+    {
+      "name": "Lotus",
+      "email": "lfeliz@wayfair.com"
+    },
+    {
+      "name": "Patrick",
+      "email": "pneuguth@wayfair.com"
+    },
+    {
+      "name": "Conor",
+      "email": "coshea@wayfair.com"
+    },
+    {
+      "name": "Heena",
+      "email": "hshaikh@wayfair.com"
+    },
+    {
+      "name": "Brooke",
+      "email": "bruscio@wayfair.com"
+    },
+    {
+      "name": "Jameelah",
+      "email": "jmagwood@wayfair.com"
+    },
+    {
+      "name": "Anthony",
+      "email": "amatrisciano@wayfair.com"
+    },
+    {
+      "name": "Debbie",
+      "email": "dmcclintock@wayfair.com"
+    },
+    {
+      "name": "Jacob",
+      "email": "jmiller@wayfair.com"
+    },
+    {
+      "name": "Mustafa",
+      "email": "mbharmal@wayfair.com"
+    },
+    {
+      "name": "Christi",
+      "email": "cwicks@wayfair.com"
+    },
+    {
+      "name": "Kimberlee",
+      "email": "karthur@wayfair.com"
+    },
+    {
+      "name": "Katie",
+      "email": "kjones@wayfair.com"
+    },
+    {
+      "name": "Katy",
+      "email": "khuang@wayfair.com"
+    },
+    {
+      "name": "Tyler",
+      "email": "tpage@wayfair.com"
+    },
+    {
+      "name": "Angelina",
+      "email": "acortazzo@wayfair.com"
+    },
+    {
+      "name": "Israe'l",
+      "email": "iwf@wayfair.com"
+    },
+    {
+      "name": "Leah",
+      "email": "lbelogolovsky@wayfair.com"
+    },
+    {
+      "name": "Steph",
+      "email": "sscully@wayfair.com"
+    },
+    {
+      "name": "Katie",
+      "email": "khalowack@wayfair.com"
+    },
+    {
+      "name": "Lauren",
+      "email": "llowe@wayfair.com"
+    },
+    {
+      "name": "Cynthia",
+      "email": "cmoradel@wayfair.com"
+    },
+    {
+      "name": "Samira",
+      "email": "slobby@wayfair.com"
+    },
+    {
+      "name": "Jalynn",
+      "email": "jbruske@wayfair.com"
+    },
+    {
+      "name": "Sarah",
+      "email": "smurphy@wayfair.com"
+    },
+    {
+      "name": "Gaethan",
+      "email": "geugene@wayfair.com"
+    },
+    {
+      "name": "Michael",
+      "email": "mdeluca@wayfair.com"
+    },
+    {
+      "name": "Kimberly",
+      "email": "kludwig@wayfair.com"
+    },
+    {
+      "name": "Sarah",
+      "email": "sblair@wayfair.com"
+    },
+    {
+      "name": "Hannah",
+      "email": "hrebecchi@wayfair.com"
+    },
+    {
+      "name": "Jaclyn",
+      "email": "jprice@wayfair.com"
+    },
+    {
+      "name": "Matthew",
+      "email": "mhedlund@wayfair.com"
+    },
+    {
+      "name": "Margaret",
+      "email": "mjohnson@wayfair.com"
+    },
+    {
+      "name": "Nick",
+      "email": "ndiadamo@wayfair.com"
+    },
+    {
+      "name": "Taylor",
+      "email": "tjones@wayfair.com"
+    },
+    {
+      "name": "Chelle",
+      "email": "cm@wayfair.com"
+    },
+    {
+      "name": "Vanessa",
+      "email": "vreimer@wayfair.com"
+    },
+    {
+      "name": "Julianne",
+      "email": "jrainwater@wayfair.com"
+    },
+    {
+      "name": "Lauren",
+      "email": "lholtzman@wayfair.com"
+    },
+    {
+      "name": "Rachel",
+      "email": "rkhamis@wayfair.com"
+    },
+    {
+      "name": "Jodie",
+      "email": "jgornall@wayfair.com"
+    },
+    {
+      "name": "Christine",
+      "email": "cmendoza@wayfair.com"
+    },
+    {
+      "name": "Tanzina",
+      "email": "ta@wayfair.com"
+    },
+    {
+      "name": "Phil",
+      "email": "plandry@wayfair.com"
+    },
+    {
+      "name": "Paulina",
+      "email": "pkiernan@wayfair.com"
+    },
+    {
+      "name": "Kelsey",
+      "email": "kcusack@wayfair.com"
+    },
+    {
+      "name": "Molly",
+      "email": "mbrown@wayfair.com"
+    },
+    {
+      "name": "Natalie",
+      "email": "ncopeland@wayfair.com"
+    },
+    {
+      "name": "Grant",
+      "email": "golsen@wayfair.com"
+    },
+    {
+      "name": "Jennifer",
+      "email": "js@wayfair.com"
+    },
+    {
+      "name": "James",
+      "email": "jneale@wayfair.com"
+    },
+    {
+      "name": "Regina",
+      "email": "rmacklin@wayfair.com"
+    },
+    {
+      "name": "Emily",
+      "email": "eproctor@wayfair.com"
+    },
+    {
+      "name": "Kaeli",
+      "email": "khuesman@wayfair.com"
+    },
+    {
+      "name": "Alexis",
+      "email": "avkn@wayfair.com"
+    },
+    {
+      "name": "Kyle",
+      "email": "kbedell@wayfair.com"
+    },
+    {
+      "name": "Dayna",
+      "email": "dmajewski@wayfair.com"
+    },
+    {
+      "name": "Samantha",
+      "email": "slockerby@wayfair.com"
+    },
+    {
+      "name": "Cara",
+      "email": "cdarr@wayfair.com"
+    },
+    {
+      "name": "Melissa",
+      "email": "mrossick@wayfair.com"
+    },
+    {
+      "name": "Evan",
+      "email": "efowler@wayfair.com"
+    },
+    {
+      "name": "Lanette",
+      "email": "lriggins@wayfair.com"
+    },
+    {
+      "name": "Tabitha",
+      "email": "tbighem@wayfair.com"
+    },
+    {
+      "name": "Libby",
+      "email": "ldickerson@wayfair.com"
+    },
+    {
+      "name": "Melissa",
+      "email": "maste@wayfair.com"
+    },
+    {
+      "name": "Nathan",
+      "email": "nangus@wayfair.com"
+    },
+    {
+      "name": "Michael",
+      "email": "msouliere@wayfair.com"
+    },
+    {
+      "name": "Kara",
+      "email": "kaltobello@wayfair.com"
+    },
+    {
+      "name": "Dustin",
+      "email": "dcheng@wayfair.com"
+    },
+    {
+      "name": "Maggie",
+      "email": "mkotleski@wayfair.com"
+    },
+    {
+      "name": "Christiana",
+      "email": "crathmanner@wayfair.com"
+    },
+    {
+      "name": "Saar",
+      "email": "shaber@wayfair.com"
+    },
+    {
+      "name": "Victoria",
+      "email": "vcummings@wayfair.com"
+    }
+  ]
+}

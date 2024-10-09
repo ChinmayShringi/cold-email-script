@@ -1,0 +1,57 @@
+{
+ "body": "Hello {{RECIPIENT_NAME}},\n\nMy name is Chinmay Shringi. I understand your time is valuable, so I’ll keep it brief. I am:\n\n\t- A full-stack developer with over 5 years of industry experience.\n\t- Currently pursuing a Master’s in Computer Engineering at New York University (NYU).\n\nI am interested in a Summer Internship in 2025 at Altamira Technologies Corporation. Here’s what I bring to the table:\n\n\t- Strong passion for innovation and experience working on real-time systems, data analytics, and distributed technologies.\n\t- A commitment to contributing to impactful projects and leveraging my technical skills to support Altamira's focus on national security and technology solutions.\n\nThank you for considering my application. I would be thrilled to discuss how I could contribute to your team.\n\nBest regards,\nChinmay Shringi\n+1(201) 284-0211\nLinkedIn: https://www.linkedin.com/in/chinmay-shringi-105736173/\nGitHub: https://github.com/ChinmayShringi\nMy Website: https://chinmayshringi.web.app/",
+ "subject": "Internship Candidate with Strong SDE Skills",
+  "contact1s": [
+    {
+      "name": "Chinmay",
+      "email": "chinmayusa4@gmail.com"
+    }
+  ],
+"contacts": [
+    {
+        "name": "Ryan",
+        "email": "ryan.carneal@altamiracorp.com"
+    },
+    {
+        "name": "Anthony",
+        "email": "anthony.cannady@altamiracorp.com"
+    },
+    {
+        "name": "Chris",
+        "email": "chris.swanson@altamiracorp.com"
+    },
+    {
+        "name": "Chloe",
+        "email": "chloe.dixon@altamiracorp.com"
+    },
+    {
+        "name": "Donald",
+        "email": "donald.umstead@altamiracorp.com"
+    },
+    {
+        "name": "Kyle",
+        "email": "kyle.krizay@altamiracorp.com"
+    },
+    {
+        "name": "George",
+        "email": "george.kinchen@altamiracorp.com"
+    },
+    {
+        "name": "John",
+        "email": "john.holbrook@altamiracorp.com"
+    },
+    {
+        "name": "Shawn",
+        "email": "shawn.singh@altamiracorp.com"
+    },
+    {
+        "name": "Osa",
+        "email": "osa.ngwa@altamiracorp.com"
+    },
+    {
+        "name": "Brad",
+        "email": "brad.schrumpf@altamiracorp.com"
+    }
+]
+
+}
